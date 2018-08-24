@@ -1,0 +1,3511 @@
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 00:16:15<br/>HTTP_X_FORWARDED_FOR : 2001:ee0:4181:ef6:b87b:6709:229a:90c0, 172.68.142.155
+From IP : 127.0.0.1<br/>From port : 41946<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0966669999
+    [password] => giangbong20112014
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 01:30:47<br/>HTTP_X_FORWARDED_FOR : 171.241.192.177, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 42590<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989000111
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 01:59:32<br/>HTTP_X_FORWARDED_FOR : 116.104.177.73, 162.158.179.112
+From IP : 127.0.0.1<br/>From port : 42626<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0981392888
+    [password] => 28111985
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 05:28:14<br/>HTTP_X_FORWARDED_FOR : 113.178.2.220, 162.158.179.112
+From IP : 127.0.0.1<br/>From port : 42800<br/>From user agent : Mozilla/5.0 (Linux; Android 8.0.0; LDN-LX2 Build/HUAWEILDN-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01675888889
+    [password] => 17004198
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 05:47:52<br/>HTTP_X_FORWARDED_FOR : 171.229.175.5, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 42922<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) CriOS/68.0.3440.83 Mobile/15D100 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0981881080
+    [password] => 0981881080
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 06:01:59<br/>HTTP_X_FORWARDED_FOR : 113.185.11.20, 172.68.255.92
+From IP : 127.0.0.1<br/>From port : 42960<br/>From user agent : Mozilla/5.0 (Linux; Android 6.0.1; SM-G532G Build/MMB29T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0987466265
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 06:19:23<br/>HTTP_X_FORWARDED_FOR : 171.245.29.75, 162.158.179.112
+From IP : 127.0.0.1<br/>From port : 43012<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1.1; SM-J3110 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989161616
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 06:55:28<br/>HTTP_X_FORWARDED_FOR : 203.210.200.196, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 43268<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979658888
+    [password] => thai123456
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 07:07:32<br/>HTTP_X_FORWARDED_FOR : 27.67.140.147, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 43328<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1.1; SM-J200GU Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0983415578
+    [password] => 68686868
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 07:09:01<br/>HTTP_X_FORWARDED_FOR : 123.16.231.143, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 43370<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-N920C Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999000
+    [password] => bomgthoc1503
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 07:09:05<br/>HTTP_X_FORWARDED_FOR : 123.16.231.143, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 43374<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-N920C Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999000
+    [password] => bomgthoc1503
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 07:09:06<br/>HTTP_X_FORWARDED_FOR : 123.16.231.143, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 43380<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-N920C Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999000
+    [password] => bomgthoc1503
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 07:09:16<br/>HTTP_X_FORWARDED_FOR : 123.16.231.143, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 43384<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-N920C Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999000
+    [password] => bongthoc1503
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 07:13:29<br/>HTTP_X_FORWARDED_FOR : 27.67.136.111, 172.68.255.92
+From IP : 127.0.0.1<br/>From port : 43458<br/>From user agent : Mozilla/5.0 (Linux; Android 5.0.2; Redmi Note 2 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/68.4.134 Mobile Chrome/62.4.3202.134 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0911112222
+    [password] => 11223344
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 07:15:37<br/>HTTP_X_FORWARDED_FOR : 113.20.100.152, 162.158.165.10
+From IP : 127.0.0.1<br/>From port : 43538<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_2 like Mac OS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0 Mobile/15C202 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999551
+    [password] => g0966077000@
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 07:16:33<br/>HTTP_X_FORWARDED_FOR : 171.241.52.54, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 43576<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0963860168
+    [password] => 21223016
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 07:25:45<br/>HTTP_X_FORWARDED_FOR : 171.241.52.54, 162.158.178.63
+From IP : 127.0.0.1<br/>From port : 43652<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0976928586
+    [password] => 21223015
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 07:26:14<br/>HTTP_X_FORWARDED_FOR : 171.241.52.54, 162.158.178.63
+From IP : 127.0.0.1<br/>From port : 43682<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0963860168
+    [password] => 21223016
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 07:33:43<br/>HTTP_X_FORWARDED_FOR : 222.254.29.176, 172.68.255.134
+From IP : 127.0.0.1<br/>From port : 43870<br/>From user agent : Mozilla/5.0 (Linux; Android 6.0.1; SM-J700H Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988813816
+    [password] => 12341234
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 07:45:50<br/>HTTP_X_FORWARDED_FOR : 14.232.44.194, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 44116<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0973980091
+    [password] => focus21H
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 07:46:01<br/>HTTP_X_FORWARDED_FOR : 27.67.142.110, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 44150<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/68.0.3440.83 Mobile/14D27 Safari/602.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01666166166
+    [password] => 04061984
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 07:46:03<br/>HTTP_X_FORWARDED_FOR : 27.67.142.110, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 44156<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/68.0.3440.83 Mobile/14D27 Safari/602.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01666166166
+    [password] => 04061984
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 07:46:14<br/>HTTP_X_FORWARDED_FOR : 27.67.142.110, 172.68.255.134
+From IP : 127.0.0.1<br/>From port : 44164<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/68.0.3440.83 Mobile/14D27 Safari/602.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01666166166
+    [password] => 02071509
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 07:46:25<br/>HTTP_X_FORWARDED_FOR : 27.3.160.141, 172.68.144.79
+From IP : 127.0.0.1<br/>From port : 44180<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/55.0.206190063 Mobile/15G77 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0911000111
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 07:46:54<br/>HTTP_X_FORWARDED_FOR : 27.73.121.231, 162.158.178.63
+From IP : 127.0.0.1<br/>From port : 44218<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999551
+    [password] => g0966077000@
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 07:52:19<br/>HTTP_X_FORWARDED_FOR : 171.250.106.39, 162.158.179.112
+From IP : 127.0.0.1<br/>From port : 44384<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0966111221
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:10:53<br/>HTTP_X_FORWARDED_FOR : 42.118.129.226, 172.68.254.60
+From IP : 127.0.0.1<br/>From port : 44640<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999000
+    [password] => bongthoc1503
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:17:14<br/>HTTP_X_FORWARDED_FOR : 14.232.109.103, 162.158.178.63
+From IP : 127.0.0.1<br/>From port : 44814<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0 Mobile/14B100 Safari/602.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0942723696
+    [password] => 0942723696
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:22:45<br/>HTTP_X_FORWARDED_FOR : 171.242.67.9, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 45010<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989000666
+    [password] => 06121976
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:24:12<br/>HTTP_X_FORWARDED_FOR : 171.253.127.249, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 45058<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0947474747
+    [password] => thanhchi
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:28:18<br/>HTTP_X_FORWARDED_FOR : 222.254.29.176, 172.68.255.80
+From IP : 127.0.0.1<br/>From port : 45238<br/>From user agent : Mozilla/5.0 (Linux; Android 8.1.0; CPH1819 Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988813816
+    [password] => 12341234
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:29:40<br/>HTTP_X_FORWARDED_FOR : 220.231.127.2, 162.158.179.112
+From IP : 127.0.0.1<br/>From port : 45286<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) SFive/64.0 Chrome/64.0.3282.204 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0983720999
+    [password] => 123v+123
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:30:18<br/>HTTP_X_FORWARDED_FOR : 116.97.70.50, 172.68.255.92
+From IP : 127.0.0.1<br/>From port : 45324<br/>From user agent : Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01666166166
+    [password] => 04061984
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:30:20<br/>HTTP_X_FORWARDED_FOR : 116.97.70.50, 172.68.255.92
+From IP : 127.0.0.1<br/>From port : 45332<br/>From user agent : Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01666166166
+    [password] => 04061984
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:30:23<br/>HTTP_X_FORWARDED_FOR : 116.97.70.50, 172.68.255.92
+From IP : 127.0.0.1<br/>From port : 45336<br/>From user agent : Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01666166166
+    [password] => 04061984
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:30:35<br/>HTTP_X_FORWARDED_FOR : 116.97.70.50, 172.68.255.92
+From IP : 127.0.0.1<br/>From port : 45350<br/>From user agent : Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01666166166
+    [password] => 04061984
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:30:38<br/>HTTP_X_FORWARDED_FOR : 116.97.70.50, 172.68.255.92
+From IP : 127.0.0.1<br/>From port : 45358<br/>From user agent : Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01666166166
+    [password] => 04061984
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:30:43<br/>HTTP_X_FORWARDED_FOR : 116.97.70.50, 172.68.255.92
+From IP : 127.0.0.1<br/>From port : 45370<br/>From user agent : Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01666166166
+    [password] => 04061984
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:30:45<br/>HTTP_X_FORWARDED_FOR : 116.97.70.50, 172.68.255.92
+From IP : 127.0.0.1<br/>From port : 45374<br/>From user agent : Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01666166166
+    [password] => 04061984
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:31:26<br/>HTTP_X_FORWARDED_FOR : 116.97.70.50, 172.68.255.92
+From IP : 127.0.0.1<br/>From port : 45436<br/>From user agent : Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01666166166
+    [password] => 02071509
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:35:21<br/>HTTP_X_FORWARDED_FOR : 2001:ee0:4141:33e2:f0a6:2cfc:c7b5:5e39, 172.68.142.83
+From IP : 127.0.0.1<br/>From port : 45678<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979502282
+    [password] => 13456789@
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:36:23<br/>HTTP_X_FORWARDED_FOR : 171.241.55.162, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 45742<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-G935F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01235558888
+    [password] => duong112233
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:36:29<br/>HTTP_X_FORWARDED_FOR : 27.73.125.217, 172.68.254.60
+From IP : 127.0.0.1<br/>From port : 45752<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988776655
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:36:58<br/>HTTP_X_FORWARDED_FOR : 27.73.125.217, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 45774<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988776655
+    [password] => 19191919
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:38:26<br/>HTTP_X_FORWARDED_FOR : 2001:ee0:41c1:40af:81e7:5c56:b983:5e94, 172.68.133.54
+From IP : 127.0.0.1<br/>From port : 45822<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979343293
+    [password] => ha666888
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:38:29<br/>HTTP_X_FORWARDED_FOR : 27.67.143.194, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 45830<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988555822
+    [password] => Thuy@0988555822
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:41:27<br/>HTTP_X_FORWARDED_FOR : 27.67.8.87, 162.158.178.63
+From IP : 127.0.0.1<br/>From port : 45886<br/>From user agent : Mozilla/5.0 (Linux; U; Android 7.0; en-US; SM-J730G Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/12.8.8.1140 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988111222
+    [password] => hue**1979
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:47:41<br/>HTTP_X_FORWARDED_FOR : 27.67.131.156, 162.158.178.63
+From IP : 127.0.0.1<br/>From port : 46280<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; TRT-L21A Build/HUAWEITRT-L21A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0977043204 
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:49:16<br/>HTTP_X_FORWARDED_FOR : 27.67.136.111, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 46314<br/>From user agent : Mozilla/5.0 (Linux; Android 5.0.2; Redmi Note 2 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/68.4.134 Mobile Chrome/62.4.3202.134 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0911112222
+    [password] => 11223344
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:53:21<br/>HTTP_X_FORWARDED_FOR : 171.241.55.162, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 46450<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01235558888
+    [password] => duong112233
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:55:17<br/>HTTP_X_FORWARDED_FOR : 14.232.44.194, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 46522<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0973980091
+    [password] => focus21H
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:55:37<br/>HTTP_X_FORWARDED_FOR : 113.190.210.31, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 46562<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-G570Y Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.85 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988887777
+    [password] => quynv0510tyvn
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 08:56:04<br/>HTTP_X_FORWARDED_FOR : 116.96.73.7, 172.68.255.134
+From IP : 127.0.0.1<br/>From port : 46616<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989000333
+    [password] => cuong06082007
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:02:15<br/>HTTP_X_FORWARDED_FOR : 27.73.126.11, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 46922<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0968154936
+    [password] => 251084123
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:02:19<br/>HTTP_X_FORWARDED_FOR : 27.67.143.194, 172.68.255.134
+From IP : 127.0.0.1<br/>From port : 46930<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988555822
+    [password] => Thuy@0988555822
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:03:17<br/>HTTP_X_FORWARDED_FOR : 113.186.165.78, 162.158.179.112
+From IP : 127.0.0.1<br/>From port : 46966<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0963668198
+    [password] => 1234567890
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:04:39<br/>HTTP_X_FORWARDED_FOR : 27.73.123.168, 162.158.179.112
+From IP : 127.0.0.1<br/>From port : 47020<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979658888
+    [password] => thai123456
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:05:29<br/>HTTP_X_FORWARDED_FOR : 171.241.55.162, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 47098<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-G935F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01235558888
+    [password] => duong112233
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:11:00<br/>HTTP_X_FORWARDED_FOR : 27.67.176.217, 172.68.255.80
+From IP : 127.0.0.1<br/>From port : 47266<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0984265555
+    [password] => 1giadinh
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:11:47<br/>HTTP_X_FORWARDED_FOR : 14.232.44.194, 162.158.179.112
+From IP : 127.0.0.1<br/>From port : 47306<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36 OPR/54.0.2952.64<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0967581301
+    [password] => 01020305
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:16:55<br/>HTTP_X_FORWARDED_FOR : 171.253.127.249, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 47564<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0947474747
+    [password] => thanhchi
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:21:04<br/>HTTP_X_FORWARDED_FOR : 103.7.36.139, 172.68.255.134
+From IP : 127.0.0.1<br/>From port : 47770<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1.1; SM-J3110 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989161616
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:24:26<br/>HTTP_X_FORWARDED_FOR : 113.22.7.27, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 47902<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0947474747
+    [password] => Quynh62
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:24:35<br/>HTTP_X_FORWARDED_FOR : 113.22.7.27, 162.158.179.148
+From IP : 127.0.0.1<br/>From port : 47912<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0947474747
+    [password] => Quynh62
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:24:35<br/>HTTP_X_FORWARDED_FOR : 113.22.7.27, 162.158.179.148
+From IP : 127.0.0.1<br/>From port : 47920<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0947474747
+    [password] => Quynh62
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:24:54<br/>HTTP_X_FORWARDED_FOR : 27.67.143.194, 162.158.178.63
+From IP : 127.0.0.1<br/>From port : 47926<br/>From user agent : Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-N950F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.2 Chrome/59.0.3071.125 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988555822
+    [password] => Thuy@0988555822
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:25:12<br/>HTTP_X_FORWARDED_FOR : 113.22.7.27, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 47944<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0947474747
+    [password] => thanhchi
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:27:23<br/>HTTP_X_FORWARDED_FOR : 27.3.160.141, 172.68.146.218
+From IP : 127.0.0.1<br/>From port : 48072<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/55.0.206190063 Mobile/15G77 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0911000111
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:28:56<br/>HTTP_X_FORWARDED_FOR : 14.232.44.194, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 48120<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0973980091
+    [password] => focus21H
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:30:43<br/>HTTP_X_FORWARDED_FOR : 117.7.200.138, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 48170<br/>From user agent : Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0902000222
+    [password] => giao100886a@
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:33:54<br/>HTTP_X_FORWARDED_FOR : 2001:ee0:4517:2ed0:2590:2389:c6a7:d94c, 172.69.22.32
+From IP : 127.0.0.1<br/>From port : 48440<br/>From user agent : Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 09699633458
+    [password] => aq112783
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:35:35<br/>HTTP_X_FORWARDED_FOR : 117.1.147.75, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 48580<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0981289787
+    [password] => 27272727
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:39:02<br/>HTTP_X_FORWARDED_FOR : 222.254.48.143, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 48794<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0902000333
+    [password] => 99999999@
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:51:58<br/>HTTP_X_FORWARDED_FOR : 113.23.54.54, 172.68.255.80
+From IP : 127.0.0.1<br/>From port : 49536<br/>From user agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01234999666
+    [password] => 15112012
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:52:35<br/>HTTP_X_FORWARDED_FOR : 27.73.121.231, 172.68.255.92
+From IP : 127.0.0.1<br/>From port : 49636<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999551
+    [password] => g0966077000@
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:52:58<br/>HTTP_X_FORWARDED_FOR : 171.229.208.244, 172.68.255.134
+From IP : 127.0.0.1<br/>From port : 49660<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988776655
+    [password] => 19191919
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:54:35<br/>HTTP_X_FORWARDED_FOR : 171.242.240.150, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 49714<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0902001133
+    [password] => uyen@2016
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:55:27<br/>HTTP_X_FORWARDED_FOR : 103.7.36.139, 162.158.178.63
+From IP : 127.0.0.1<br/>From port : 49758<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1.1; SM-J3110 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989161616
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:58:28<br/>HTTP_X_FORWARDED_FOR : 27.67.29.207, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 49824<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1.1; SM-J320G Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0983720999
+    [password] => 123v+123
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 09:59:14<br/>HTTP_X_FORWARDED_FOR : 27.73.123.168, 162.158.178.63
+From IP : 127.0.0.1<br/>From port : 49854<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979658888
+    [password] => thai123456
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 10:11:17<br/>HTTP_X_FORWARDED_FOR : 113.190.210.31, 172.68.255.134
+From IP : 127.0.0.1<br/>From port : 50372<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-G570Y Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.85 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988887777
+    [password] => quynv0510tyvn
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 10:14:04<br/>HTTP_X_FORWARDED_FOR : 27.67.188.76, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 50518<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-J730G Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0977035880
+    [password] => 11111111
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 10:19:08<br/>HTTP_X_FORWARDED_FOR : 27.67.141.77, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 50800<br/>From user agent : Mozilla/5.0 (Linux; Android 8.1.0; CPH1819 Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.85 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0976928586
+    [password] => 21223015
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 10:21:58<br/>HTTP_X_FORWARDED_FOR : 171.229.208.244, 162.158.179.148
+From IP : 127.0.0.1<br/>From port : 50950<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0868686868
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 10:24:26<br/>HTTP_X_FORWARDED_FOR : 42.113.157.184, 162.158.178.63
+From IP : 127.0.0.1<br/>From port : 51074<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-A910F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0868686868
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 10:28:52<br/>HTTP_X_FORWARDED_FOR : 2001:ee0:4c5c:1eb0:b151:73c9:ed2d:addb, 172.68.141.226
+From IP : 127.0.0.1<br/>From port : 51166<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-J730G Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0902001122
+    [password] => 0987906105
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 10:31:13<br/>HTTP_X_FORWARDED_FOR : 113.185.11.147, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 51258<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0886868078
+    [password] => 01638988888
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 10:36:12<br/>HTTP_X_FORWARDED_FOR : 171.241.55.162, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 51366<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01235558888
+    [password] => duong112233
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 10:44:41<br/>HTTP_X_FORWARDED_FOR : 171.229.208.244, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 51664<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988776655
+    [password] => 19191919
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 10:44:51<br/>HTTP_X_FORWARDED_FOR : 2001:ee0:4001:3801:7962:5161:ecad:997f, 172.68.141.82
+From IP : 127.0.0.1<br/>From port : 51678<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999558
+    [password] => /Khoi0466882828
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 10:44:57<br/>HTTP_X_FORWARDED_FOR : 2001:ee0:4001:3801:7962:5161:ecad:997f, 172.68.141.82
+From IP : 127.0.0.1<br/>From port : 51690<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999558
+    [password] => /Khoi0466882828
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 10:45:07<br/>HTTP_X_FORWARDED_FOR : 2001:ee0:4001:3801:7962:5161:ecad:997f, 172.68.141.82
+From IP : 127.0.0.1<br/>From port : 51700<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999558
+    [password] => Khoi0466882828
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 10:57:15<br/>HTTP_X_FORWARDED_FOR : 220.231.127.1, 172.68.254.60
+From IP : 127.0.0.1<br/>From port : 51928<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) SFive/64.0 Chrome/64.0.3282.204 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0983720999
+    [password] => 123v+123
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 11:00:43<br/>HTTP_X_FORWARDED_FOR : 27.76.161.71, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 52168<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/68.0.3440.83 Mobile/14D27 Safari/602.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01666166166
+    [password] => 04061984
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 11:00:44<br/>HTTP_X_FORWARDED_FOR : 27.76.161.71, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 52172<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/68.0.3440.83 Mobile/14D27 Safari/602.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01666166166
+    [password] => 04061984
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 11:02:29<br/>HTTP_X_FORWARDED_FOR : 2405:4800:205e:b1c5:918b:b165:e0a3:45fd, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 52198<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1.1; SM-J3110 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989161616
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 11:08:44<br/>HTTP_X_FORWARDED_FOR : 220.231.127.2, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 52418<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) SFive/64.0 Chrome/64.0.3282.204 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 09661112255
+    [password] => abcd123A
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 11:11:04<br/>HTTP_X_FORWARDED_FOR : 27.67.138.150, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 52504<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0976496686
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 11:13:41<br/>HTTP_X_FORWARDED_FOR : 117.0.217.29, 172.68.255.80
+From IP : 127.0.0.1<br/>From port : 52624<br/>From user agent : Mozilla/5.0 (Linux; Android 7.1.1; SM-T385 Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 09633176666
+    [password] => 777888999
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 11:14:02<br/>HTTP_X_FORWARDED_FOR : 171.241.55.162, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 52648<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01235558888
+    [password] => duong112233
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 11:20:44<br/>HTTP_X_FORWARDED_FOR : 113.190.210.31, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 52864<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988887777
+    [password] => quynv0510tyvn
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 11:27:43<br/>HTTP_X_FORWARDED_FOR : 116.96.252.156, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 53058<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989707070
+    [password] => 123h456h
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 11:31:00<br/>HTTP_X_FORWARDED_FOR : 27.73.123.168, 172.68.255.80
+From IP : 127.0.0.1<br/>From port : 53126<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979658888
+    [password] => thai123456
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 11:31:04<br/>HTTP_X_FORWARDED_FOR : 27.67.189.97, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 53136<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0963860168
+    [password] => 21223016
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 11:34:54<br/>HTTP_X_FORWARDED_FOR : 220.231.127.2, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 53188<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) SFive/64.0 Chrome/64.0.3282.204 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988555822
+    [password] => Thuy@0988555822
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 11:37:36<br/>HTTP_X_FORWARDED_FOR : 2001:ee0:4141:33e2:f0a6:2cfc:c7b5:5e39, 172.68.133.54
+From IP : 127.0.0.1<br/>From port : 53294<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979502282
+    [password] => 13456789@
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 11:43:06<br/>HTTP_X_FORWARDED_FOR : 2001:ee0:4101:69b8:6072:ac08:1f06:1f2a, 172.68.189.109
+From IP : 127.0.0.1<br/>From port : 53484<br/>From user agent : Mozilla/5.0 (Linux; Android 8.1.0; CPH1819 Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988823816
+    [password] => 12341234
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 11:43:09<br/>HTTP_X_FORWARDED_FOR : 2001:ee0:4101:69b8:6072:ac08:1f06:1f2a, 172.68.189.109
+From IP : 127.0.0.1<br/>From port : 53486<br/>From user agent : Mozilla/5.0 (Linux; Android 8.1.0; CPH1819 Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988823816
+    [password] => 12341234
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 11:43:36<br/>HTTP_X_FORWARDED_FOR : 2001:ee0:4101:69b8:6072:ac08:1f06:1f2a, 172.68.189.109
+From IP : 127.0.0.1<br/>From port : 53510<br/>From user agent : Mozilla/5.0 (Linux; Android 8.1.0; CPH1819 Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988813816
+    [password] => 12341234
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 11:43:37<br/>HTTP_X_FORWARDED_FOR : 171.241.55.162, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 53516<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-G935F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01235558888
+    [password] => duong112233
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 11:49:24<br/>HTTP_X_FORWARDED_FOR : 2405:4800:205e:b1c5:918b:b165:e0a3:45fd, 162.158.179.112
+From IP : 127.0.0.1<br/>From port : 53800<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1.1; SM-J3110 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989161616
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 11:55:40<br/>HTTP_X_FORWARDED_FOR : 183.91.4.8, 172.68.144.79
+From IP : 127.0.0.1<br/>From port : 54366<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML, like Gecko) Version/10.0 Mobile/14D27 Safari/602.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988333666
+    [password] => 0982986969mai
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 12:04:17<br/>HTTP_X_FORWARDED_FOR : 117.0.217.29, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 54732<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 09633176666
+    [password] => 777888999
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 12:07:50<br/>HTTP_X_FORWARDED_FOR : 117.0.217.29, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 54890<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 09633176666
+    [password] => 777888999
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 12:11:46<br/>HTTP_X_FORWARDED_FOR : 27.3.160.141, 172.68.146.218
+From IP : 127.0.0.1<br/>From port : 54992<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/55.0.206190063 Mobile/15G77 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0911000111
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 12:15:29<br/>HTTP_X_FORWARDED_FOR : 171.237.234.59, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 55104<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999557
+    [password] => tuan1234567
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 12:15:49<br/>HTTP_X_FORWARDED_FOR : 27.76.161.71, 172.68.255.134
+From IP : 127.0.0.1<br/>From port : 55118<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/68.0.3440.83 Mobile/14D27 Safari/602.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01666166166
+    [password] => 04061984
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 12:19:42<br/>HTTP_X_FORWARDED_FOR : 42.118.129.226, 162.158.179.112
+From IP : 127.0.0.1<br/>From port : 55288<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999000
+    [password] => bongthoc1503
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 12:31:22<br/>HTTP_X_FORWARDED_FOR : 27.67.143.194, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 55792<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988555822
+    [password] => Thuy@@0988555822
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 12:31:26<br/>HTTP_X_FORWARDED_FOR : 27.67.143.194, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 55796<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988555822
+    [password] => Thuy@@0988555822
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 12:31:47<br/>HTTP_X_FORWARDED_FOR : 27.67.143.194, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 55820<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988555822
+    [password] => Thuy@@0988555822
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 12:32:01<br/>HTTP_X_FORWARDED_FOR : 27.67.143.194, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 55826<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988555822
+    [password] => Thuy@0988555822
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 12:33:28<br/>HTTP_X_FORWARDED_FOR : 2001:ee0:4141:33e2:f0a6:2cfc:c7b5:5e39, 172.68.141.82
+From IP : 127.0.0.1<br/>From port : 55878<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979502282
+    [password] => 13456789@
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 12:43:38<br/>HTTP_X_FORWARDED_FOR : 42.118.129.226, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 56500<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999000
+    [password] => bongthoc1503
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 12:48:49<br/>HTTP_X_FORWARDED_FOR : 14.162.213.216, 162.158.179.112
+From IP : 127.0.0.1<br/>From port : 56832<br/>From user agent : Mozilla/5.0 (Linux; Android 8.1.0; CPH1819 Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.85 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0976928586
+    [password] => 21223015
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 12:53:17<br/>HTTP_X_FORWARDED_FOR : 116.97.70.50, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 57098<br/>From user agent : Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01666166166
+    [password] => 02071509
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 13:00:35<br/>HTTP_X_FORWARDED_FOR : 42.114.213.167, 162.158.179.148
+From IP : 127.0.0.1<br/>From port : 57628<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0966668888
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 13:02:26<br/>HTTP_X_FORWARDED_FOR : 59.153.240.155, 162.158.179.148
+From IP : 127.0.0.1<br/>From port : 57800<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0934225522
+    [password] => 123456789
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 13:02:29<br/>HTTP_X_FORWARDED_FOR : 59.153.241.105, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 57804<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0934225522
+    [password] => 123456789
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 13:02:33<br/>HTTP_X_FORWARDED_FOR : 59.153.240.155, 172.68.254.60
+From IP : 127.0.0.1<br/>From port : 57812<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0934225522
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 13:02:52<br/>HTTP_X_FORWARDED_FOR : 42.113.195.47, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 57848<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-J730G Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0977035880
+    [password] => 11111111
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 13:06:18<br/>HTTP_X_FORWARDED_FOR : 113.23.53.157, 172.68.255.134
+From IP : 127.0.0.1<br/>From port : 58060<br/>From user agent : Mozilla/5.0 (Linux; Android 5.0.2; E6553 Build/28.0.A.8.272) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989522886 
+    [password] => thanh969798@
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 13:16:39<br/>HTTP_X_FORWARDED_FOR : 42.118.129.226, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 58602<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999000
+    [password] => bongthoc1503
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 13:21:45<br/>HTTP_X_FORWARDED_FOR : 27.67.134.189, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 58782<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1.1; SM-J200GU Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0983415578
+    [password] => 68686868
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 13:27:23<br/>HTTP_X_FORWARDED_FOR : 14.177.201.122, 172.68.254.60
+From IP : 127.0.0.1<br/>From port : 58962<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-J730G Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0963860168
+    [password] => 21223016
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 13:27:33<br/>HTTP_X_FORWARDED_FOR : 203.210.200.196, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 58976<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979658888
+    [password] => thai123456
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 13:27:55<br/>HTTP_X_FORWARDED_FOR : 27.67.137.233, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 58998<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; TRT-L21A Build/HUAWEITRT-L21A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0977043204 
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 13:35:19<br/>HTTP_X_FORWARDED_FOR : 2001:ee0:4141:9b3:b019:2acf:d6d9:285a, 172.69.22.32
+From IP : 127.0.0.1<br/>From port : 59346<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; F3116 Build/33.3.A.1.97) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.107 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979502282
+    [password] => 13456789@
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 13:37:45<br/>HTTP_X_FORWARDED_FOR : 42.118.129.226, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 59480<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-N920C Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999000
+    [password] => bongthoc1503
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 13:44:05<br/>HTTP_X_FORWARDED_FOR : 171.240.98.8, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 59846<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/56.3.162 Chrome/50.3.2661.162 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979896999
+    [password] => 15648989
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 13:52:46<br/>HTTP_X_FORWARDED_FOR : 117.0.217.29, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 60302<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 09633176666
+    [password] => 777888999
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 13:53:42<br/>HTTP_X_FORWARDED_FOR : 113.22.7.27, 162.158.179.148
+From IP : 127.0.0.1<br/>From port : 60404<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0947474747
+    [password] => thanhchi
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 13:54:19<br/>HTTP_X_FORWARDED_FOR : 2001:ee0:4141:222a:c5d:69a6:f1e8:6208, 172.68.133.54
+From IP : 127.0.0.1<br/>From port : 60446<br/>From user agent : Mozilla/5.0 (Linux; Android 8.0.0; SM-G965F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 08888882999
+    [password] => 0888888399
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 13:55:45<br/>HTTP_X_FORWARDED_FOR : 222.254.20.24, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 60538<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0899999999
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 13:55:50<br/>HTTP_X_FORWARDED_FOR : 222.254.20.24, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 60544<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0899999999
+    [password] => 123456789
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 13:55:56<br/>HTTP_X_FORWARDED_FOR : 222.254.20.24, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 60550<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0899999999
+    [password] => 0888888399
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 13:55:58<br/>HTTP_X_FORWARDED_FOR : 222.254.20.24, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 60560<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0899999999
+    [password] => 0888888399
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 13:56:34<br/>HTTP_X_FORWARDED_FOR : 222.254.20.24, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 60608<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0899999999
+    [password] => 999999999
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:02:10<br/>HTTP_X_FORWARDED_FOR : 171.249.177.136, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 60764<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0977249249
+    [password] => lien@101286
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:06:32<br/>HTTP_X_FORWARDED_FOR : 2405:4800:265e:b727:118e:dece:2ea9:9b82, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 60858<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0966555888
+    [password] => baobao1320
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:10:32<br/>HTTP_X_FORWARDED_FOR : 27.67.143.194, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 32906<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988555822
+    [password] => Thuy@0988555822
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:15:27<br/>HTTP_X_FORWARDED_FOR : 113.160.183.100, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 33102<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999554
+    [password] => 01011983$
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:15:41<br/>HTTP_X_FORWARDED_FOR : 42.118.129.226, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 33128<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999000
+    [password] => bongthoc1503
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:18:09<br/>HTTP_X_FORWARDED_FOR : 117.5.104.137, 172.68.254.60
+From IP : 127.0.0.1<br/>From port : 33224<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-J730G Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0966057000
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:18:40<br/>HTTP_X_FORWARDED_FOR : 27.67.134.189, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 33262<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1.1; SM-J200GU Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0983415578
+    [password] => 68686868
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:21:26<br/>HTTP_X_FORWARDED_FOR : 27.67.129.97, 172.68.255.92
+From IP : 127.0.0.1<br/>From port : 33454<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/68.0.3440.83 Mobile/14D27 Safari/602.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01666166166
+    [password] => 04061984
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:21:36<br/>HTTP_X_FORWARDED_FOR : 27.67.129.97, 162.158.179.112
+From IP : 127.0.0.1<br/>From port : 33464<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/68.0.3440.83 Mobile/14D27 Safari/602.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01666166166
+    [password] => 02071509
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:31:17<br/>HTTP_X_FORWARDED_FOR : 27.67.143.194, 162.158.178.63
+From IP : 127.0.0.1<br/>From port : 33820<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988555822
+    [password] => Thuy@0988555822
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:31:44<br/>HTTP_X_FORWARDED_FOR : 42.114.213.167, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 33840<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0966668888
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:34:49<br/>HTTP_X_FORWARDED_FOR : 113.160.183.100, 172.68.255.80
+From IP : 127.0.0.1<br/>From port : 33940<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999554
+    [password] => 01011983$
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:35:11<br/>HTTP_X_FORWARDED_FOR : 117.0.217.29, 172.68.254.60
+From IP : 127.0.0.1<br/>From port : 33982<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 09633176666
+    [password] => 777888999
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:37:33<br/>HTTP_X_FORWARDED_FOR : 113.185.11.106, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 34064<br/>From user agent : Mozilla/5.0 (Linux; Android 8.0.0; SM-G965F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 08888882999
+    [password] => 0888888399
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:37:39<br/>HTTP_X_FORWARDED_FOR : 113.185.11.106, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 34074<br/>From user agent : Mozilla/5.0 (Linux; Android 8.0.0; SM-G965F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 08888882999
+    [password] => 0888888399
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:42:56<br/>HTTP_X_FORWARDED_FOR : 116.97.70.50, 162.158.179.148
+From IP : 127.0.0.1<br/>From port : 34380<br/>From user agent : Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01666166166
+    [password] => 02071509
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:43:05<br/>HTTP_X_FORWARDED_FOR : 171.248.204.211, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 34402<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0977249249
+    [password] => lien@101286
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:44:05<br/>HTTP_X_FORWARDED_FOR : 59.153.241.105, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 34496<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0934225522
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:44:29<br/>HTTP_X_FORWARDED_FOR : 59.153.240.155, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 34506<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0934225522
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:46:30<br/>HTTP_X_FORWARDED_FOR : 117.7.253.225, 172.68.254.60
+From IP : 127.0.0.1<br/>From port : 34580<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979778687
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:46:54<br/>HTTP_X_FORWARDED_FOR : 27.67.142.167, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 34602<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; TRT-L21A Build/HUAWEITRT-L21A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0977043204 
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:48:46<br/>HTTP_X_FORWARDED_FOR : 117.6.101.29, 162.158.179.148
+From IP : 127.0.0.1<br/>From port : 34674<br/>From user agent : Mozilla/5.0 (Linux; U; Android 7.0; en-US; SM-J730G Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/12.8.8.1140 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988111222
+    [password] => hue**1979
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:49:38<br/>HTTP_X_FORWARDED_FOR : 171.229.208.244, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 34696<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988776655
+    [password] => 19191919
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:49:57<br/>HTTP_X_FORWARDED_FOR : 27.76.93.229, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 34736<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0981289787
+    [password] => 27272727
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:51:46<br/>HTTP_X_FORWARDED_FOR : 171.241.55.162, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 34852<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-G935F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01235558888
+    [password] => duong112233
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:55:03<br/>HTTP_X_FORWARDED_FOR : 14.232.44.194, 172.68.254.60
+From IP : 127.0.0.1<br/>From port : 35016<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0973980091
+    [password] => focus21H
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 14:59:13<br/>HTTP_X_FORWARDED_FOR : 27.79.166.160, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 35232<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0984265555
+    [password] => 1giadinh
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 15:12:26<br/>HTTP_X_FORWARDED_FOR : 171.237.234.59, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 36090<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999557
+    [password] => tuan1234567
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 15:14:19<br/>HTTP_X_FORWARDED_FOR : 171.240.98.8, 162.158.178.63
+From IP : 127.0.0.1<br/>From port : 36216<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/56.3.162 Chrome/50.3.2661.162 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979896999
+    [password] => 15648989
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 15:15:44<br/>HTTP_X_FORWARDED_FOR : 27.73.7.139, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 36342<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0898642222
+    [password] => thha12101988
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 15:18:14<br/>HTTP_X_FORWARDED_FOR : 113.160.185.100, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 36536<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999554
+    [password] => 01011983$
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 15:18:16<br/>HTTP_X_FORWARDED_FOR : 27.67.29.207, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 36546<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1.1; SM-J320G Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0983720999
+    [password] => 123v+123
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 15:20:16<br/>HTTP_X_FORWARDED_FOR : 171.245.15.29, 172.68.255.92
+From IP : 127.0.0.1<br/>From port : 36772<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1; X9009 Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0944801078
+    [password] => quyen1986@
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 15:26:44<br/>HTTP_X_FORWARDED_FOR : 2405:4800:71d7:93e:65a8:bc9e:dd8e:30eb, 172.68.254.60
+From IP : 127.0.0.1<br/>From port : 37364<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0 Mobile/14B100 Safari/602.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0942723696
+    [password] => 0942723696
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 15:26:59<br/>HTTP_X_FORWARDED_FOR : 171.241.139.54, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 37414<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0966111222
+    [password] => bong68++
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 15:29:34<br/>HTTP_X_FORWARDED_FOR : 42.118.129.226, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 37680<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999000
+    [password] => bongthoc1503
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 15:36:05<br/>HTTP_X_FORWARDED_FOR : 123.17.133.193, 172.68.255.134
+From IP : 127.0.0.1<br/>From port : 38246<br/>From user agent : Mozilla/5.0 (Linux; Android 8.0.0; LDN-LX2 Build/HUAWEILDN-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01675888889
+    [password] => 17004198
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 15:37:43<br/>HTTP_X_FORWARDED_FOR : 27.67.176.141, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 38440<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) CriOS/68.0.3440.83 Mobile/15F79 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989999999
+    [password] => hao@2018
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 15:38:01<br/>HTTP_X_FORWARDED_FOR : 116.110.173.74, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 38494<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01666447799
+    [password] => 29042012
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 15:42:14<br/>HTTP_X_FORWARDED_FOR : 58.186.223.226, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 39062<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989000555
+    [password] => 21372028
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 15:46:58<br/>HTTP_X_FORWARDED_FOR : 117.0.200.99, 162.158.179.148
+From IP : 127.0.0.1<br/>From port : 39436<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01675888889
+    [password] => 17004198
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 15:53:58<br/>HTTP_X_FORWARDED_FOR : 2001:ee0:4702:7597:a42b:4176:8d16:a1a4, 162.158.255.94
+From IP : 127.0.0.1<br/>From port : 40182<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999554
+    [password] => 01011983$
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 15:58:03<br/>HTTP_X_FORWARDED_FOR : 14.162.213.216, 172.68.255.92
+From IP : 127.0.0.1<br/>From port : 40570<br/>From user agent : Mozilla/5.0 (Linux; Android 8.1.0; CPH1819 Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.85 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0976928586
+    [password] => 21223015
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 16:00:05<br/>HTTP_X_FORWARDED_FOR : 123.27.81.70, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 40720<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-A910F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01636426999
+    [password] => 88924599
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 16:12:58<br/>HTTP_X_FORWARDED_FOR : 27.67.143.194, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 41652<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988555822
+    [password] => Thuy@0988555822
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 16:13:56<br/>HTTP_X_FORWARDED_FOR : 118.70.153.150, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 41732<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0886868078
+    [password] => 01638988888
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 16:17:45<br/>HTTP_X_FORWARDED_FOR : 113.160.185.100, 172.68.255.92
+From IP : 127.0.0.1<br/>From port : 42026<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999554
+    [password] => 01011983$
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 16:21:27<br/>HTTP_X_FORWARDED_FOR : 171.229.208.244, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 42194<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988776655
+    [password] => 19191919
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 16:23:44<br/>HTTP_X_FORWARDED_FOR : 14.232.44.194, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 42342<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36 OPR/54.0.2952.64<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0967581301
+    [password] => 01020305
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 16:26:59<br/>HTTP_X_FORWARDED_FOR : 27.67.132.62, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 42608<br/>From user agent : Mozilla/5.0 (Linux; Android 5.0.2; Redmi Note 2 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/68.4.134 Mobile Chrome/62.4.3202.134 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0911112222
+    [password] => 11223344
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 16:28:21<br/>HTTP_X_FORWARDED_FOR : 113.185.11.37, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 42766<br/>From user agent : Mozilla/5.0 (Linux; Android 6.0.1; SM-G532G Build/MMB29T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0987466265
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 16:28:22<br/>HTTP_X_FORWARDED_FOR : 171.240.98.8, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 42772<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/56.3.162 Chrome/50.3.2661.162 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979896999
+    [password] => 15648989
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 16:32:54<br/>HTTP_X_FORWARDED_FOR : 27.66.164.64, 172.68.254.60
+From IP : 127.0.0.1<br/>From port : 43030<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0973980091
+    [password] => focus21H
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 16:36:49<br/>HTTP_X_FORWARDED_FOR : 222.254.29.176, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 43330<br/>From user agent : Mozilla/5.0 (Linux; Android 8.1.0; CPH1819 Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988813816
+    [password] => 12341234
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 16:41:31<br/>HTTP_X_FORWARDED_FOR : 27.67.129.79, 162.158.179.148
+From IP : 127.0.0.1<br/>From port : 43658<br/>From user agent : Mozilla/5.0 (Linux; Android 8.0.0; LDN-LX2 Build/HUAWEILDN-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01675888889
+    [password] => 17004198
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 16:42:01<br/>HTTP_X_FORWARDED_FOR : 27.76.93.229, 172.68.255.92
+From IP : 127.0.0.1<br/>From port : 43694<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0981289787
+    [password] => 27272727
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 16:43:03<br/>HTTP_X_FORWARDED_FOR : 113.185.11.245, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 43776<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0934225522
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 16:44:50<br/>HTTP_X_FORWARDED_FOR : 117.6.53.189, 162.158.179.148
+From IP : 127.0.0.1<br/>From port : 43912<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988887777
+    [password] => quynv0510tyvn
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 16:45:48<br/>HTTP_X_FORWARDED_FOR : 27.67.138.52, 172.68.255.134
+From IP : 127.0.0.1<br/>From port : 44062<br/>From user agent : Mozilla/5.0 (Linux; Android 8.1.0; CPH1819 Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.85 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0976928586
+    [password] => 21223015
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 16:45:49<br/>HTTP_X_FORWARDED_FOR : 171.241.139.54, 162.158.178.63
+From IP : 127.0.0.1<br/>From port : 44070<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0966111222
+    [password] => bong68++
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 16:58:08<br/>HTTP_X_FORWARDED_FOR : 27.73.123.168, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 45776<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979658888
+    [password] => thai123456
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 16:58:37<br/>HTTP_X_FORWARDED_FOR : 113.160.183.100, 172.68.254.60
+From IP : 127.0.0.1<br/>From port : 45802<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999554
+    [password] => 01011983$
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 16:59:57<br/>HTTP_X_FORWARDED_FOR : 2001:ee0:4141:33e2:f0a6:2cfc:c7b5:5e39, 172.69.22.32
+From IP : 127.0.0.1<br/>From port : 45906<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979502282
+    [password] => 13456789@
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:04:39<br/>HTTP_X_FORWARDED_FOR : 27.67.133.42, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 46338<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; TRT-L21A Build/HUAWEITRT-L21A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0977043204 
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:04:51<br/>HTTP_X_FORWARDED_FOR : 27.67.140.162, 172.68.254.60
+From IP : 127.0.0.1<br/>From port : 46354<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-J730G Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0977035880
+    [password] => 11111111
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:08:14<br/>HTTP_X_FORWARDED_FOR : 27.67.134.189, 162.158.179.148
+From IP : 127.0.0.1<br/>From port : 46742<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1.1; SM-J200GU Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0983415578
+    [password] => 68686868
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:08:30<br/>HTTP_X_FORWARDED_FOR : 123.27.81.70, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 46772<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2467.2 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01363426999
+    [password] => 88924599
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:08:33<br/>HTTP_X_FORWARDED_FOR : 123.27.81.70, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 46776<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2467.2 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01363426999
+    [password] => 88924599
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:08:34<br/>HTTP_X_FORWARDED_FOR : 123.27.81.70, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 46778<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2467.2 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01363426999
+    [password] => 88924599
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:08:59<br/>HTTP_X_FORWARDED_FOR : 123.27.81.70, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 46820<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2467.2 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01363426999
+    [password] => 88924599
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:09:00<br/>HTTP_X_FORWARDED_FOR : 123.27.81.70, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 46826<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2467.2 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01363426999
+    [password] => 88924599
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:09:01<br/>HTTP_X_FORWARDED_FOR : 123.27.81.70, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 46828<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2467.2 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01363426999
+    [password] => 88924599
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:09:01<br/>HTTP_X_FORWARDED_FOR : 123.27.81.70, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 46830<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2467.2 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01363426999
+    [password] => 88924599
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:09:02<br/>HTTP_X_FORWARDED_FOR : 123.27.81.70, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 46832<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2467.2 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01363426999
+    [password] => 88924599
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:09:02<br/>HTTP_X_FORWARDED_FOR : 123.27.81.70, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 46834<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2467.2 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01363426999
+    [password] => 88924599
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:09:02<br/>HTTP_X_FORWARDED_FOR : 123.27.81.70, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 46836<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2467.2 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01363426999
+    [password] => 88924599
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:09:35<br/>HTTP_X_FORWARDED_FOR : 123.27.81.70, 172.68.255.80
+From IP : 127.0.0.1<br/>From port : 46886<br/>From user agent : Mozilla/5.0 (Windows NT 5.1; rv:37.0) Gecko/20100101 Firefox/37.0<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01636426999
+    [password] => 426999
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:09:42<br/>HTTP_X_FORWARDED_FOR : 123.27.81.70, 172.68.255.80
+From IP : 127.0.0.1<br/>From port : 46890<br/>From user agent : Mozilla/5.0 (Windows NT 5.1; rv:37.0) Gecko/20100101 Firefox/37.0<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01636426999
+    [password] => 88924599
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:18:44<br/>HTTP_X_FORWARDED_FOR : 171.229.208.244, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 47442<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988776655
+    [password] => 19191919
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:20:01<br/>HTTP_X_FORWARDED_FOR : 117.6.101.29,8.37.233.186, 172.68.47.138
+From IP : 127.0.0.1<br/>From port : 47566<br/>From user agent : Mozilla/5.0 (Linux; U; Android 7.0; en-US; SM-J730G Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/12.8.8.1140 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988111222
+    [password] => hue**1979
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:20:41<br/>HTTP_X_FORWARDED_FOR : 113.185.11.32, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 47622<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-G935F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01235558888
+    [password] => duong112233
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:23:13<br/>HTTP_X_FORWARDED_FOR : 118.70.153.150, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 47828<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0886868078
+    [password] => 01638988888
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:25:32<br/>HTTP_X_FORWARDED_FOR : 113.185.11.166, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 48162<br/>From user agent : Mozilla/5.0 (iPad; CPU OS 11_3_1 like Mac OS X) AppleWebKit/601.1 (KHTML, like Gecko) CriOS/53.0.2785.86 Mobile/15E302 Safari/601.1.46<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0983720999
+    [password] => 123v+123
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:31:18<br/>HTTP_X_FORWARDED_FOR : 27.67.140.162, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 48798<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-J730G Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0977035880
+    [password] => 11111111
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:35:38<br/>HTTP_X_FORWARDED_FOR : 59.153.241.105, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 49106<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0934225522
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:42:18<br/>HTTP_X_FORWARDED_FOR : 203.113.190.69, 172.68.255.80
+From IP : 127.0.0.1<br/>From port : 49598<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) SFive/64.0 Chrome/64.0.3282.204 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0982828098
+    [password] => 63252481
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:44:55<br/>HTTP_X_FORWARDED_FOR : 117.6.53.189, 162.158.178.63
+From IP : 127.0.0.1<br/>From port : 49750<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988887777
+    [password] => quynv0510tyvn
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:46:37<br/>HTTP_X_FORWARDED_FOR : 171.248.204.211, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 49834<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0977249249
+    [password] => lien@101286
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:48:35<br/>HTTP_X_FORWARDED_FOR : 117.0.217.29, 172.68.255.134
+From IP : 127.0.0.1<br/>From port : 49916<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 09633176666
+    [password] => 777888999
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:48:44<br/>HTTP_X_FORWARDED_FOR : 27.67.31.158, 162.158.179.112
+From IP : 127.0.0.1<br/>From port : 49930<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989522886
+    [password] => thanh123@
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:49:03<br/>HTTP_X_FORWARDED_FOR : 27.67.31.158, 172.68.255.134
+From IP : 127.0.0.1<br/>From port : 49944<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989522886
+    [password] => thanh969798
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:49:19<br/>HTTP_X_FORWARDED_FOR : 27.67.31.158, 172.68.255.92
+From IP : 127.0.0.1<br/>From port : 49964<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989522886
+    [password] => thanh969798@
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:50:24<br/>HTTP_X_FORWARDED_FOR : 27.67.129.97, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 50084<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/68.0.3440.83 Mobile/14D27 Safari/602.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01666166166
+    [password] => 02071509
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:50:30<br/>HTTP_X_FORWARDED_FOR : 103.7.36.133, 172.68.254.60
+From IP : 127.0.0.1<br/>From port : 50098<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1.1; SM-J3110 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989161616
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:53:43<br/>HTTP_X_FORWARDED_FOR : 103.7.36.133, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 50296<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1.1; SM-J3110 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989161616
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:55:29<br/>HTTP_X_FORWARDED_FOR : 27.67.138.150, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 50386<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0976496686
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 17:59:47<br/>HTTP_X_FORWARDED_FOR : 222.254.48.143, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 50542<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0902000333
+    [password] => 99999999@
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 18:06:16<br/>HTTP_X_FORWARDED_FOR : 2001:ee0:41c1:40af:81e7:5c56:b983:5e94, 172.68.141.226
+From IP : 127.0.0.1<br/>From port : 50808<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979343293
+    [password] => ha666888
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 18:40:16<br/>HTTP_X_FORWARDED_FOR : 42.114.213.167, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 51484<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0966668888
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 18:42:48<br/>HTTP_X_FORWARDED_FOR : 42.114.213.167, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 51570<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0966668888
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 18:44:08<br/>HTTP_X_FORWARDED_FOR : 27.73.123.168, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 51618<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979658888
+    [password] => thai123456
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 18:45:27<br/>HTTP_X_FORWARDED_FOR : 116.97.70.50, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 51660<br/>From user agent : Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01666166166
+    [password] => 02071509
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 18:45:32<br/>HTTP_X_FORWARDED_FOR : 27.73.7.139, 172.68.254.60
+From IP : 127.0.0.1<br/>From port : 51666<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0898642222
+    [password] => thha12101988
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 18:47:01<br/>HTTP_X_FORWARDED_FOR : 171.242.203.180, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 51728<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0973980091
+    [password] => focus21H
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 18:47:01<br/>HTTP_X_FORWARDED_FOR : 171.241.55.162, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 51738<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-G935F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01235558888
+    [password] => duong112233
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 18:48:51<br/>HTTP_X_FORWARDED_FOR : 42.113.194.147, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 51946<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0 Mobile/14B100 Safari/602.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0942723696
+    [password] => 0942723696
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 18:49:06<br/>HTTP_X_FORWARDED_FOR : 123.27.81.70, 172.68.254.60
+From IP : 127.0.0.1<br/>From port : 51968<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-A910F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01636426999
+    [password] => 88924599
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 18:56:32<br/>HTTP_X_FORWARDED_FOR : 118.70.5.19, 162.158.179.148
+From IP : 127.0.0.1<br/>From port : 52302<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; LG-US996 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0967581301
+    [password] => 01020305
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 19:01:25<br/>HTTP_X_FORWARDED_FOR : 27.73.121.231, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 52412<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999551
+    [password] => g0966077000@
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 19:01:27<br/>HTTP_X_FORWARDED_FOR : 171.242.67.9, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 52422<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989000666
+    [password] => 06121976
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 19:09:07<br/>HTTP_X_FORWARDED_FOR : 171.240.98.8, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 52748<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/56.3.162 Chrome/50.3.2661.162 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979896999
+    [password] => 15648989
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 19:10:35<br/>HTTP_X_FORWARDED_FOR : 171.240.98.8, 172.68.255.92
+From IP : 127.0.0.1<br/>From port : 52774<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/56.3.162 Chrome/50.3.2661.162 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0986791666
+    [password] => 15648989
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 19:12:35<br/>HTTP_X_FORWARDED_FOR : 27.67.134.189, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 52900<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1.1; SM-J200GU Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0983415578
+    [password] => 68686868
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 19:16:32<br/>HTTP_X_FORWARDED_FOR : 14.244.249.29, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 53060<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999554
+    [password] => 01011983$
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 19:16:53<br/>HTTP_X_FORWARDED_FOR : 27.67.5.27, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 53098<br/>From user agent : Mozilla/5.0 (Linux; U; Android 7.0; en-US; SM-J730G Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/12.8.8.1140 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988111222
+    [password] => hue**1979
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 19:20:23<br/>HTTP_X_FORWARDED_FOR : 171.241.139.54, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 53200<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0966111222
+    [password] => bONG68++
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 19:20:27<br/>HTTP_X_FORWARDED_FOR : 171.241.139.54, 172.68.255.134
+From IP : 127.0.0.1<br/>From port : 53204<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0966111222
+    [password] => BONG68++
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 19:20:33<br/>HTTP_X_FORWARDED_FOR : 171.241.139.54, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 53208<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0966111222
+    [password] => bong68++
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 19:27:40<br/>HTTP_X_FORWARDED_FOR : 27.3.160.141, 162.158.165.10
+From IP : 127.0.0.1<br/>From port : 53348<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/44.0 Chrome/38.0.2125.122 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0911000111
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 19:28:31<br/>HTTP_X_FORWARDED_FOR : 171.234.227.78, 162.158.179.112
+From IP : 127.0.0.1<br/>From port : 53386<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.2 Chrome/59.0.3071.125 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989175668
+    [password] => 0989175668
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 19:30:43<br/>HTTP_X_FORWARDED_FOR : 42.114.213.167, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 53536<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0966668888
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 19:42:54<br/>HTTP_X_FORWARDED_FOR : 113.186.128.175, 172.68.255.134
+From IP : 127.0.0.1<br/>From port : 54026<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0973980091
+    [password] => focus21H
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 19:48:47<br/>HTTP_X_FORWARDED_FOR : 42.114.213.167, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 54114<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0966668888
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 19:50:03<br/>HTTP_X_FORWARDED_FOR : 115.78.166.232, 162.158.178.63
+From IP : 127.0.0.1<br/>From port : 54156<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0984422799
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 19:53:38<br/>HTTP_X_FORWARDED_FOR : 123.16.231.143, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 54238<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999000
+    [password] => bongthoc1503
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 20:04:17<br/>HTTP_X_FORWARDED_FOR : 203.210.200.196, 172.68.255.92
+From IP : 127.0.0.1<br/>From port : 54408<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979658888
+    [password] => thai123456
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 20:06:22<br/>HTTP_X_FORWARDED_FOR : 103.7.36.181, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 54446<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1.1; SM-J3110 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989161616
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 20:19:22<br/>HTTP_X_FORWARDED_FOR : 2405:4800:12c6:f711:d903:f1d5:66e6:af70, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 54652<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0976496686
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 20:19:49<br/>HTTP_X_FORWARDED_FOR : 27.73.7.139, 162.158.179.112
+From IP : 127.0.0.1<br/>From port : 54698<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0898642222
+    [password] => thha12101988
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 20:26:13<br/>HTTP_X_FORWARDED_FOR : 116.98.113.254, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 54894<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1; X9009 Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0944801078
+    [password] => quyen1986@
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 20:27:05<br/>HTTP_X_FORWARDED_FOR : 123.27.81.70, 172.68.255.92
+From IP : 127.0.0.1<br/>From port : 54920<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-A910F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01636426999
+    [password] => 88924599
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 20:28:40<br/>HTTP_X_FORWARDED_FOR : 116.96.172.37, 162.158.179.112
+From IP : 127.0.0.1<br/>From port : 54976<br/>From user agent : Mozilla/5.0 (Linux; Android 6.0.1; SM-G532G Build/MMB29T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0987466265
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 20:30:42<br/>HTTP_X_FORWARDED_FOR : 113.190.252.116, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 55034<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0967581301
+    [password] => 01020305
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 20:36:23<br/>HTTP_X_FORWARDED_FOR : 118.70.5.19, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 55244<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0967581304
+    [password] => 01020305
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 20:36:27<br/>HTTP_X_FORWARDED_FOR : 118.70.5.19, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 55248<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0967581302
+    [password] => 01020305
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 20:36:28<br/>HTTP_X_FORWARDED_FOR : 118.70.5.19, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 55250<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0967581301
+    [password] => 01020305
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 20:36:37<br/>HTTP_X_FORWARDED_FOR : 118.70.5.19, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 55260<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0967581305
+    [password] => 01020305
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 20:36:39<br/>HTTP_X_FORWARDED_FOR : 118.70.5.19, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 55262<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0967581306
+    [password] => 01020305
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 20:37:38<br/>HTTP_X_FORWARDED_FOR : 171.234.227.78, 172.68.255.80
+From IP : 127.0.0.1<br/>From port : 55330<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.2 Chrome/59.0.3071.125 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989175668
+    [password] => 0989175668
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 20:38:14<br/>HTTP_X_FORWARDED_FOR : 203.210.200.196, 162.158.178.63
+From IP : 127.0.0.1<br/>From port : 55368<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979658888
+    [password] => thai123456
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 20:39:27<br/>HTTP_X_FORWARDED_FOR : 171.245.29.75, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 55450<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1.1; SM-J3110 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989161616
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 20:39:37<br/>HTTP_X_FORWARDED_FOR : 58.187.67.43, 172.68.255.134
+From IP : 127.0.0.1<br/>From port : 55468<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989990990
+    [password] => 28071990
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 20:44:34<br/>HTTP_X_FORWARDED_FOR : 2405:4800:71d7:93e:e8e5:dcae:d99e:c3b5, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 55660<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0942723696
+    [password] => 0942723696
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 20:49:46<br/>HTTP_X_FORWARDED_FOR : 14.244.249.29, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 55812<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/50.2.175 Chrome/44.2.2403.175 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999554
+    [password] => 01011983$
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 20:50:50<br/>HTTP_X_FORWARDED_FOR : 171.250.106.39, 162.158.179.112
+From IP : 127.0.0.1<br/>From port : 55856<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0966111221
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 20:54:03<br/>HTTP_X_FORWARDED_FOR : 27.67.29.207, 162.158.179.112
+From IP : 127.0.0.1<br/>From port : 55964<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1.1; SM-J320G Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0983720999
+    [password] => 123v+123
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 20:59:18<br/>HTTP_X_FORWARDED_FOR : 27.73.125.217, 172.68.255.134
+From IP : 127.0.0.1<br/>From port : 56104<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988776655
+    [password] => 19191919
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:03:53<br/>HTTP_X_FORWARDED_FOR : 171.242.203.180, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 56274<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0973980091
+    [password] => focus21H
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:06:22<br/>HTTP_X_FORWARDED_FOR : 171.245.29.75, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 56378<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1.1; SM-J3110 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989161616
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:07:47<br/>HTTP_X_FORWARDED_FOR : 118.71.106.93, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 56430<br/>From user agent : Mozilla/5.0 (Linux; Android 7.1.1; CPH1729 Build/N6F26Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0978681926
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:10:33<br/>HTTP_X_FORWARDED_FOR : 42.114.213.167, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 56534<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0966668888
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:11:53<br/>HTTP_X_FORWARDED_FOR : 171.240.98.8, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 56632<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/56.3.162 Chrome/50.3.2661.162 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 200000
+    [password] => 22566969
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:12:18<br/>HTTP_X_FORWARDED_FOR : 171.240.98.8, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 56650<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/56.3.162 Chrome/50.3.2661.162 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0986791666
+    [password] => 15648989
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:17:25<br/>HTTP_X_FORWARDED_FOR : 171.238.4.198, 162.158.179.148
+From IP : 127.0.0.1<br/>From port : 56748<br/>From user agent : Mozilla/5.0 (Linux; U; Android 7.0; en-US; SM-J730G Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/12.8.8.1140 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988111222
+    [password] => hue**1979
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:17:44<br/>HTTP_X_FORWARDED_FOR : 171.241.55.162, 162.158.178.63
+From IP : 127.0.0.1<br/>From port : 56778<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-G935F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01235558888
+    [password] => duong112233
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:20:14<br/>HTTP_X_FORWARDED_FOR : 42.118.214.222, 162.158.179.148
+From IP : 127.0.0.1<br/>From port : 56886<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-N920L Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979502282
+    [password] => 13456789@
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:21:58<br/>HTTP_X_FORWARDED_FOR : 123.16.219.39, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 56946<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-J730G Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0911222888
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:22:43<br/>HTTP_X_FORWARDED_FOR : 1.55.140.190, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 56994<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0966111222
+    [password] => bong68++
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:22:52<br/>HTTP_X_FORWARDED_FOR : 116.96.73.7, 162.158.178.63
+From IP : 127.0.0.1<br/>From port : 57012<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989000333
+    [password] => cuong06082007
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:27:56<br/>HTTP_X_FORWARDED_FOR : 27.3.105.193, 162.158.166.191
+From IP : 127.0.0.1<br/>From port : 57214<br/>From user agent : Mozilla/5.0 (Linux; Android 6.0; CPH1609 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0868625514
+    [password] => 88888888
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:38:05<br/>HTTP_X_FORWARDED_FOR : 123.27.81.70, 172.68.255.80
+From IP : 127.0.0.1<br/>From port : 57368<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01636426999
+    [password] => 88924599*
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:38:07<br/>HTTP_X_FORWARDED_FOR : 123.27.81.70, 172.68.255.80
+From IP : 127.0.0.1<br/>From port : 57372<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01636426999
+    [password] => 88924599*
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:38:08<br/>HTTP_X_FORWARDED_FOR : 123.27.81.70, 172.68.255.80
+From IP : 127.0.0.1<br/>From port : 57376<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01636426999
+    [password] => 88924599*
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:38:14<br/>HTTP_X_FORWARDED_FOR : 123.27.81.70, 172.68.255.80
+From IP : 127.0.0.1<br/>From port : 57380<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01636426999
+    [password] => 88924599
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:40:18<br/>HTTP_X_FORWARDED_FOR : 113.190.118.72, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 57446<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0972150489
+    [password] => 111111112
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:45:02<br/>HTTP_X_FORWARDED_FOR : 222.254.48.143, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 57588<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0902000333
+    [password] => 99999999@
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:47:19<br/>HTTP_X_FORWARDED_FOR : 116.98.113.254, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 57670<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1; X9009 Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0944801078
+    [password] => quyen1986@
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:53:04<br/>HTTP_X_FORWARDED_FOR : 27.3.105.193, 172.68.146.194
+From IP : 127.0.0.1<br/>From port : 57940<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0868625514
+    [password] => 88888888
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:54:52<br/>HTTP_X_FORWARDED_FOR : 113.185.11.166, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 58052<br/>From user agent : Mozilla/5.0 (iPad; CPU OS 11_3_1 like Mac OS X) AppleWebKit/601.1 (KHTML, like Gecko) CriOS/53.0.2785.86 Mobile/15E302 Safari/601.1.46<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0983720999
+    [password] => 123v+123
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:55:44<br/>HTTP_X_FORWARDED_FOR : 171.237.234.59, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 58070<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999557
+    [password] => tuan1234567
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:56:12<br/>HTTP_X_FORWARDED_FOR : 171.237.234.59, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 58092<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999550
+    [password] => 1234567l
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 21:57:04<br/>HTTP_X_FORWARDED_FOR : 14.232.174.172, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 58126<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 09868880166
+    [password] => 09871234
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 22:00:05<br/>HTTP_X_FORWARDED_FOR : 123.17.157.176, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 58252<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-J730G Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0966057000
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 22:01:16<br/>HTTP_X_FORWARDED_FOR : 113.23.53.157, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 58274<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0989522886
+    [password] => thanh969798@
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 22:06:28<br/>HTTP_X_FORWARDED_FOR : 171.241.52.54, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 58510<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0976928586
+    [password] => 21223015
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 22:07:04<br/>HTTP_X_FORWARDED_FOR : 171.241.52.54, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 58540<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0976928586
+    [password] => 21223015
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 22:08:29<br/>HTTP_X_FORWARDED_FOR : 2001:ee0:4141:222a:ac96:ec9b:18ef:c1e, 162.158.255.148
+From IP : 127.0.0.1<br/>From port : 58642<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 08888882999
+    [password] => 0888888399
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 22:12:16<br/>HTTP_X_FORWARDED_FOR : 117.0.220.45, 172.68.254.60
+From IP : 127.0.0.1<br/>From port : 58826<br/>From user agent : Mozilla/5.0 (Linux; Android 5.0.2; Redmi Note 2 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/68.4.134 Mobile Chrome/62.4.3202.134 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0911112222
+    [password] => 11223344
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 22:15:18<br/>HTTP_X_FORWARDED_FOR : 171.241.55.162, 172.68.255.92
+From IP : 127.0.0.1<br/>From port : 59182<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01235558888
+    [password] => duong112233
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 22:15:28<br/>HTTP_X_FORWARDED_FOR : 113.20.101.246, 162.158.167.66
+From IP : 127.0.0.1<br/>From port : 59204<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML, like Gecko) Version/10.0 Mobile/14D27 Safari/602.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988333666
+    [password] => 0982986969mai
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 22:16:51<br/>HTTP_X_FORWARDED_FOR : 58.187.12.62, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 59312<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01234999667
+    [password] => 15112012
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 22:16:53<br/>HTTP_X_FORWARDED_FOR : 58.187.12.62, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 59316<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01234999667
+    [password] => 15112012
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 22:16:58<br/>HTTP_X_FORWARDED_FOR : 58.187.12.62, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 59320<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 01234999666
+    [password] => 15112012
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 22:28:52<br/>HTTP_X_FORWARDED_FOR : 117.1.136.70, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 59920<br/>From user agent : Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0888599929
+    [password] => 0888599929
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 22:31:17<br/>HTTP_X_FORWARDED_FOR : 113.185.11.84, 162.158.178.63
+From IP : 127.0.0.1<br/>From port : 60000<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0983720999
+    [password] => 123v+123
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 22:36:01<br/>HTTP_X_FORWARDED_FOR : 222.254.29.176, 172.68.255.134
+From IP : 127.0.0.1<br/>From port : 60124<br/>From user agent : Mozilla/5.0 (Linux; Android 8.1.0; CPH1819 Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988813816
+    [password] => 12341234
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 22:49:08<br/>HTTP_X_FORWARDED_FOR : 171.241.52.54, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 60520<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0976928586
+    [password] => 21223015
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 22:52:12<br/>HTTP_X_FORWARDED_FOR : 171.241.24.100, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 60758<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988555822
+    [password] => Thuy@0988555822
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 22:57:01<br/>HTTP_X_FORWARDED_FOR : 27.67.129.208, 172.68.255.92
+From IP : 127.0.0.1<br/>From port : 32790<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-A910F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/175.0.0.23.81;]<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0966771888
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 22:58:08<br/>HTTP_X_FORWARDED_FOR : 123.16.219.39, 172.68.255.134
+From IP : 127.0.0.1<br/>From port : 32912<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-J730G Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0911222888
+    [password] => 12345678
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 23:07:23<br/>HTTP_X_FORWARDED_FOR : 171.240.98.8, 172.68.255.134
+From IP : 127.0.0.1<br/>From port : 34114<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0986791666
+    [password] => 15648989
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 23:12:08<br/>HTTP_X_FORWARDED_FOR : 14.244.249.29, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 34256<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/50.2.175 Chrome/44.2.2403.175 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999554
+    [password] => 01011983$
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 23:12:29<br/>HTTP_X_FORWARDED_FOR : 1.55.140.190, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 34280<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0966111222
+    [password] => bong68++
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 23:14:07<br/>HTTP_X_FORWARDED_FOR : 171.240.98.8, 172.68.255.134
+From IP : 127.0.0.1<br/>From port : 34348<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/56.3.162 Chrome/50.3.2661.162 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979896999
+    [password] => 15648989
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 23:14:39<br/>HTTP_X_FORWARDED_FOR : 171.240.98.8, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 34396<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979896999
+    [password] => 15648989
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 23:15:14<br/>HTTP_X_FORWARDED_FOR : 2001:ee0:4181:ef6:e435:f9d0:d1fe:a032, 172.68.189.103
+From IP : 127.0.0.1<br/>From port : 34438<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0966669999
+    [password] => giangbong20112014
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 23:17:18<br/>HTTP_X_FORWARDED_FOR : 171.241.52.54, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 34538<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0963860168
+    [password] => 21223016
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 23:27:45<br/>HTTP_X_FORWARDED_FOR : 14.187.205.17, 172.68.254.60
+From IP : 127.0.0.1<br/>From port : 34748<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 09444272828
+    [password] => thao@12345
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 23:34:51<br/>HTTP_X_FORWARDED_FOR : 171.240.98.8, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 35008<br/>From user agent : Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/56.3.162 Chrome/50.3.2661.162 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0986791666
+    [password] => 15648989
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 23:38:18<br/>HTTP_X_FORWARDED_FOR : 14.244.249.29, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 35100<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0988999554
+    [password] => 01011983$
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 23:39:52<br/>HTTP_X_FORWARDED_FOR : 171.248.204.211, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 35148<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0977249249
+    [password] => lien@101286
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 23:40:27<br/>HTTP_X_FORWARDED_FOR : 171.241.52.54, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 35182<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0979829140
+    [password] => 44444444
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 23:40:54<br/>HTTP_X_FORWARDED_FOR : 171.241.52.54, 162.158.179.16
+From IP : 127.0.0.1<br/>From port : 35218<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0963860168
+    [password] => 21223016
+    [remember] => on
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 10/08/2018 - 23:51:06<br/>HTTP_X_FORWARDED_FOR : 171.241.52.54, 162.158.179.112
+From IP : 127.0.0.1<br/>From port : 35752<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-J730G Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/login.php<br/></td>
+<td><pre>Request : Array
+(
+    [phone] => 0963860168
+    [password] => 21223016
+    [remember] => on
+)
+</td>
+</tr></table>

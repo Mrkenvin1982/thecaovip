@@ -1,0 +1,42 @@
+<table class='adminlist'><tr><td><pre>Time : 19/07/2018 - 09:44:15<br/>HTTP_X_FORWARDED_FOR : 101.96.121.186, 162.158.178.63
+From IP : 127.0.0.1<br/>From host : <br/>From port : 46062<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/adduser.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0977249249' for key 'phone'<br/>Sql : INSERT Users VALUES(NULL,?,?,?,?,?,?,?,?,?,?,?,?,?)</td>
+<td><pre>Data : Array
+(
+    [0] => 48
+    [1] => C LIÊN ĐẠI THẮNG
+    [2] => 0977249249
+    [3] => 0
+    [4] => d8ac2c50c3d937d8bff60573f8927032
+    [5] => a9adb52d92caec323dce420af668239775720560df2e7b0ffb6a19109c6ba133
+    [6] => c8c605999f3d8352d7bb792cf3fdb25b
+    [7] => 1
+    [8] => a60f59ba9e7643bb942d95241e92b405
+    [9] => 3
+    [10] => 1531968255
+    [11] => 0
+    [12] => 1
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 19/07/2018 - 09:44:55<br/>HTTP_X_FORWARDED_FOR : 101.96.121.186, 162.158.178.63
+From IP : 127.0.0.1<br/>From host : <br/>From port : 46090<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/adduser.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0977249249' for key 'phone'<br/>Sql : INSERT Users VALUES(NULL,?,?,?,?,?,?,?,?,?,?,?,?,?)</td>
+<td><pre>Data : Array
+(
+    [0] => 48
+    [1] => C LIÊN ĐẠI THẮNG LỢI
+    [2] => 0977249249
+    [3] => 0
+    [4] => 5c98cc82d7b487a89c88e0fac22de96c
+    [5] => 75ce3869a963410375816fca15e7116de01cef8ec08d1768398094210ce2bc8d
+    [6] => c8c605999f3d8352d7bb792cf3fdb25b
+    [7] => 1
+    [8] => c150751b0dabd9d13ab1d384459e0de4
+    [9] => 3
+    [10] => 1531968295
+    [11] => 0
+    [12] => 1
+)
+</td>
+</tr></table>

@@ -1,0 +1,64 @@
+<table class='adminlist'><tr><td><pre>Time : 03/08/2018 - 11:08:56<br/>HTTP_X_FORWARDED_FOR : 171.241.88.250, 172.68.253.167
+From IP : 127.0.0.1<br/>From port : 46642<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-G935F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.85 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 38</td>
+<td><pre>UserAdd : 337</td>
+<td><pre>Request : PhoneAdd : 0979502282, Money : 3000000</td>
+<td><pre>Balance : 100,000</td>
+<td><pre>Update Balance : 3,100,000</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 03/08/2018 - 12:22:44<br/>HTTP_X_FORWARDED_FOR : 42.118.129.226, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 48590<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 264</td>
+<td><pre>UserAdd : 218</td>
+<td><pre>Request : PhoneAdd : 0988999000, Money : 4000000</td>
+<td><pre>Balance : 2,334,300</td>
+<td><pre>Update Balance : 6,334,300</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 03/08/2018 - 12:59:16<br/>HTTP_X_FORWARDED_FOR : 171.242.203.180, 172.68.255.170
+From IP : 127.0.0.1<br/>From port : 49738<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 1</td>
+<td><pre>UserAdd : 38</td>
+<td><pre>Request : PhoneAdd : 01235558888, Money : 50000000</td>
+<td><pre>Balance : 2,001,039</td>
+<td><pre>Update Balance : 52,001,039</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 03/08/2018 - 13:01:48<br/>HTTP_X_FORWARDED_FOR : 171.241.88.250, 162.158.179.112
+From IP : 127.0.0.1<br/>From port : 49912<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 38</td>
+<td><pre>UserAdd : 218</td>
+<td><pre>Request : PhoneAdd : 0988999000, Money : 38000000</td>
+<td><pre>Balance : 1,312,300</td>
+<td><pre>Update Balance : 39,312,300</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 03/08/2018 - 14:12:25<br/>HTTP_X_FORWARDED_FOR : 171.253.189.193, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 51158<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 19</td>
+<td><pre>UserAdd : 399</td>
+<td><pre>Request : PhoneAdd : 0966668888, Money : 5000000</td>
+<td><pre>Balance : 0</td>
+<td><pre>Update Balance : 5,000,000</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 03/08/2018 - 19:54:35<br/>HTTP_X_FORWARDED_FOR : 117.1.160.255, 172.68.253.125
+From IP : 127.0.0.1<br/>From port : 60782<br/>From user agent : Mozilla/5.0 (Linux; Android 5.0.2; Redmi Note 2 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/68.4.134 Mobile Chrome/62.4.3202.134 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 291</td>
+<td><pre>UserAdd : 400</td>
+<td><pre>Request : PhoneAdd : 0964485596, Money : 10000000</td>
+<td><pre>Balance : 0</td>
+<td><pre>Update Balance : 10,000,000</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 03/08/2018 - 20:04:16<br/>HTTP_X_FORWARDED_FOR : 123.16.231.143, 172.69.134.45
+From IP : 127.0.0.1<br/>From port : 32988<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.208 Chrome/66.4.3359.208 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 218</td>
+<td><pre>UserAdd : 264</td>
+<td><pre>Request : PhoneAdd : 0966111224, Money : 4000000</td>
+<td><pre>Balance : 559,700</td>
+<td><pre>Update Balance : 4,559,700</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 03/08/2018 - 20:29:27<br/>HTTP_X_FORWARDED_FOR : 27.67.140.25, 172.68.255.98
+From IP : 127.0.0.1<br/>From port : 33560<br/>From user agent : Mozilla/5.0 (Linux; Android 5.0.2; Redmi Note 2 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/68.4.134 Mobile Chrome/62.4.3202.134 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 291</td>
+<td><pre>UserAdd : 362</td>
+<td><pre>Request : PhoneAdd : 0983415578, Money : 10000000</td>
+<td><pre>Balance : 279,800</td>
+<td><pre>Update Balance : 10,279,800</td>
+</tr></table>

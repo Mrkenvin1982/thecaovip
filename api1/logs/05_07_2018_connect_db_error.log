@@ -1,0 +1,12 @@
+<table class='adminlist'><tr><td><pre>Time : <br/>HTTP_X_FORWARDED_FOR : 14.189.78.129, 172.68.146.146
+From IP : 127.0.0.1<br/>From host : <br/>From port : 35864<br/>From user agent : Mozilla/5.0 (Linux; Android 8.0.0; SM-G965F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/adduser.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[HY000] [2002] No such file or directory</td>
+<td><pre>Input : Array
+(
+    [host] => localhost
+    [user] => root
+    [pass] => luyen@123
+    [db] => sim
+)
+</td>
+</tr></table>

@@ -1,0 +1,112 @@
+<table class='adminlist'><tr><td><pre>Time : 29/07/2018 - 06:05:56<br/>HTTP_X_FORWARDED_FOR : 113.178.2.220, 172.68.144.79
+From IP : 127.0.0.1<br/>From host : <br/>From port : 60014<br/>From user agent : Mozilla/5.0 (Linux; Android 8.0.0; LDN-LX2 Build/HUAWEILDN-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/phone/executeActions.php<br/></td>
+<td><pre>Admin : 292</td>
+<td><pre>Refund for : 0979617471, Money : 246000</td>
+<td><pre>Balance : 6,513,500</td>
+<td><pre>Update Balance : 6,759,500</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 29/07/2018 - 07:35:59<br/>HTTP_X_FORWARDED_FOR : 27.67.13.228, 162.158.178.75
+From IP : 127.0.0.1<br/>From host : <br/>From port : 60498<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/refund.php<br/></td>
+<td><pre>Admin : 262</td>
+<td><pre>Refund for : 0972402222, Money : 380000</td>
+<td><pre>Balance : 11,097,100</td>
+<td><pre>Update Balance : 11,477,100</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 29/07/2018 - 07:36:09<br/>HTTP_X_FORWARDED_FOR : 27.67.13.228, 172.68.255.80
+From IP : 127.0.0.1<br/>From host : <br/>From port : 60502<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/refund.php<br/></td>
+<td><pre>Admin : 262</td>
+<td><pre>Refund for : 0972178178, Money : 380000</td>
+<td><pre>Balance : 11,477,100</td>
+<td><pre>Update Balance : 11,857,100</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 29/07/2018 - 08:34:59<br/>HTTP_X_FORWARDED_FOR : 117.1.114.31, 172.68.253.125
+From IP : 127.0.0.1<br/>From host : <br/>From port : 33704<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/refund.php<br/></td>
+<td><pre>Admin : 325</td>
+<td><pre>Refund for : 0965883958, Money : 41000</td>
+<td><pre>Balance : 3,133,500</td>
+<td><pre>Update Balance : 3,174,500</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 29/07/2018 - 08:48:12<br/>HTTP_X_FORWARDED_FOR : 117.1.114.31, 162.158.178.75
+From IP : 127.0.0.1<br/>From host : <br/>From port : 33912<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/refund.php<br/></td>
+<td><pre>Admin : 325</td>
+<td><pre>Refund for : 0979406699, Money : 228000</td>
+<td><pre>Balance : 2,618,500</td>
+<td><pre>Update Balance : 2,846,500</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 29/07/2018 - 08:49:52<br/>HTTP_X_FORWARDED_FOR : 117.1.114.31, 172.68.255.92
+From IP : 127.0.0.1<br/>From host : <br/>From port : 33960<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/refund.php<br/></td>
+<td><pre>Admin : 325</td>
+<td><pre>Refund for : 0988605702, Money : 246000</td>
+<td><pre>Balance : 2,846,500</td>
+<td><pre>Update Balance : 3,092,500</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 29/07/2018 - 08:53:28<br/>HTTP_X_FORWARDED_FOR : 117.1.114.31, 172.68.255.98
+From IP : 127.0.0.1<br/>From host : <br/>From port : 34024<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/refund.php<br/></td>
+<td><pre>Admin : 325</td>
+<td><pre>Refund for : 01677352126, Money : 82000</td>
+<td><pre>Balance : 3,092,500</td>
+<td><pre>Update Balance : 3,174,500</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 29/07/2018 - 09:04:05<br/>HTTP_X_FORWARDED_FOR : 171.254.1.209, 172.68.255.170
+From IP : 127.0.0.1<br/>From host : <br/>From port : 34110<br/>From user agent : Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0<br/>Script file name : /home/levanluyen/www/api1/ajax/refund.php<br/></td>
+<td><pre>Admin : 75</td>
+<td><pre>Refund for : 0869025686, Money : 38500</td>
+<td><pre>Balance : 2,537,000</td>
+<td><pre>Update Balance : 2,575,500</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 29/07/2018 - 09:20:42<br/>HTTP_X_FORWARDED_FOR : 27.67.141.37, 162.158.178.75
+From IP : 127.0.0.1<br/>From host : <br/>From port : 34578<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.2 Chrome/59.0.3071.125 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/phone/executeActions.php<br/></td>
+<td><pre>Admin : 311</td>
+<td><pre>Refund for : 0963342288, Money : 166000</td>
+<td><pre>Balance : 1,395,900</td>
+<td><pre>Update Balance : 1,561,900</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 29/07/2018 - 10:45:29<br/>HTTP_X_FORWARDED_FOR : 14.248.160.204, 162.158.165.10
+From IP : 127.0.0.1<br/>From host : <br/>From port : 36196<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1.1; SM-J200GU Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/phone/executeActions.php<br/></td>
+<td><pre>Admin : 362</td>
+<td><pre>Refund for : 0988728970, Money : 41000</td>
+<td><pre>Balance : 1,416,800</td>
+<td><pre>Update Balance : 1,457,800</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 29/07/2018 - 10:47:25<br/>HTTP_X_FORWARDED_FOR : 14.248.160.204, 162.158.165.10
+From IP : 127.0.0.1<br/>From host : <br/>From port : 36246<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1.1; SM-J200GU Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/phone/executeActions.php<br/></td>
+<td><pre>Admin : 362</td>
+<td><pre>Refund for : 0986899881, Money : 152000</td>
+<td><pre>Balance : 1,305,800</td>
+<td><pre>Update Balance : 1,457,800</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 29/07/2018 - 11:22:15<br/>HTTP_X_FORWARDED_FOR : 171.248.173.24, 172.68.255.98
+From IP : 127.0.0.1<br/>From host : <br/>From port : 36950<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/phone/executeActions.php<br/></td>
+<td><pre>Admin : 261</td>
+<td><pre>Refund for : d500_gftth_lieuhtk, Money : 39000</td>
+<td><pre>Balance : 34,725,700</td>
+<td><pre>Update Balance : 34,764,700</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 29/07/2018 - 11:26:58<br/>HTTP_X_FORWARDED_FOR : 171.248.173.24, 172.68.255.170
+From IP : 127.0.0.1<br/>From host : <br/>From port : 37018<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/phone/executeActions.php<br/></td>
+<td><pre>Admin : 261</td>
+<td><pre>Refund for : d500_ftth_khuonghv, Money : 39000</td>
+<td><pre>Balance : 34,764,700</td>
+<td><pre>Update Balance : 34,803,700</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 29/07/2018 - 18:20:15<br/>HTTP_X_FORWARDED_FOR : 116.107.17.210, 162.158.179.16
+From IP : 127.0.0.1<br/>From host : <br/>From port : 46004<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/refund.php<br/></td>
+<td><pre>Admin : 201</td>
+<td><pre>Refund for : 01682443712, Money : 166000</td>
+<td><pre>Balance : 9,548,000</td>
+<td><pre>Update Balance : 9,714,000</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 29/07/2018 - 21:25:44<br/>HTTP_X_FORWARDED_FOR : 14.177.192.19, 162.158.167.12
+From IP : 127.0.0.1<br/>From host : <br/>From port : 48364<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/67.0.3396.87 Mobile/14D27 Safari/602.1<br/>Script file name : /home/levanluyen/www/api1/ajax/refund.php<br/></td>
+<td><pre>Admin : 218</td>
+<td><pre>Refund for : 0965416776, Money : 76000</td>
+<td><pre>Balance : 12,628,300</td>
+<td><pre>Update Balance : 12,704,300</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 29/07/2018 - 21:25:51<br/>HTTP_X_FORWARDED_FOR : 14.177.192.19, 162.158.167.12
+From IP : 127.0.0.1<br/>From host : <br/>From port : 48376<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/67.0.3396.87 Mobile/14D27 Safari/602.1<br/>Script file name : /home/levanluyen/www/api1/ajax/refund.php<br/></td>
+<td><pre>Admin : 218</td>
+<td><pre>Refund for : 0868995895, Money : 76000</td>
+<td><pre>Balance : 12,704,300</td>
+<td><pre>Update Balance : 12,780,300</td>
+</tr></table>

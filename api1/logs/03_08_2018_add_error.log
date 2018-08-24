@@ -1,0 +1,21 @@
+<table class='adminlist'><tr><td><pre>Time : 03/08/2018 - 14:05:32<br/>HTTP_X_FORWARDED_FOR : 171.229.174.203, 162.158.178.75
+From IP : 127.0.0.1<br/>From port : 50974<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/adduser.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0868624901' for key 'phone'<br/>Sql : INSERT Users VALUES(NULL,?,?,?,?,?,?,?,?,?,?,?,?,?)</td>
+<td><pre>Data : Array
+(
+    [0] => 205
+    [1] => Thanh Cầm
+    [2] => 0868624901
+    [3] => 0
+    [4] => df1df388b6347dd2984d49489c8ae7a8
+    [5] => 319090c34a9bdc63df8cabf3acf568f89e1f83bf3cf4821a930dc4c81daf9e60
+    [6] => 25d55ad283aa400af464c76d713c07ad
+    [7] => 1
+    [8] => 32c221b5cc6f8d723861064fa29636b6
+    [9] => 3
+    [10] => 1533279932
+    [11] => 0
+    [12] => 1
+)
+</td>
+</tr></table>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style type="text/css">
+	td{
+		padding: 10px;
+	}
+</style>
+<script type="text/javascript">
+	var error = [];
+	function Validate() {
+		var user = document.getElementById('user').value;
+		var pass = document.getElementById('pass').value;
+		if(user == ''){
+			error = 'rqUser';
+		}
+		if (pass == '') {
+			error = 'rqPass';
+		}
+		return error;
+	}
+	function check() {
+		if (Validate('rqUser')) {
+			document.getElementById('erUser').innerHTML = 'Xin điền đủ User Name!!!';
+		}
+		if(Validate('rqPass')){
+			document.getElementById('erPass').innerHTML = 'Xin điền đủ PassWord!!!';
+		}
+		return false;
+	}
+</script>
+</head>
+<body>
+	<fieldset style="width: 600px;margin: 0 auto;">
+		<legend>Đăng Ký</legend>
+		<form action="" onsubmit="return check()">
+			<table>
+				<tr>
+					<td>User Name :</td>
+					<td><input type="text" size="35" id="user" onclick="document.getElementById('erUser').innerHTML = '';"></td>
+					<td><span id="erUser" style="color: red; float: left; font-size: 12px;"></span></td>			
+				</tr>
+				<tr>
+					<td>PassWord :</td>
+					<td><input type="password" size="35" id="pass" onclick="document.getElementById('erPass').innerHTML = '';"></td>
+					<td><span id="erPass" style="color: red; float: left;font-size: 12px;"></span></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td>
+						<button type="submit">Save</button>
+					</td>
+				</tr>
+			</table>
+		</form>
+	</fieldset>
+
+
+</body>
+</html>

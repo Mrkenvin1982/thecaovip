@@ -1,0 +1,9 @@
+RewriteEngine on
+
+Options All -Indexes
+
+order deny,allow
+deny from all
+
+allow from 27.72.144.82
+allow from 27.67.38.100

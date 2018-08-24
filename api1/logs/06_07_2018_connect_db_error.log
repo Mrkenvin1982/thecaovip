@@ -1,0 +1,12 @@
+<table class='adminlist'><tr><td><pre>Time : <br/>HTTP_X_FORWARDED_FOR : 42.118.98.211, 172.68.144.85
+From IP : 127.0.0.1<br/>From host : <br/>From port : 32960<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/70.4.236 Chrome/64.4.3282.236 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/push-phone.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[HY000] [2002] Connection refused</td>
+<td><pre>Input : Array
+(
+    [host] => localhost
+    [user] => root
+    [pass] => luyen@123
+    [db] => sim
+)
+</td>
+</tr></table>

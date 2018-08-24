@@ -1,0 +1,29 @@
+{
+  "name": "sim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "autosms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "continuation-local-storage": "^3.2.1",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.47",
+    "express": "^4.16.3",
+    "express-ipfilter": "^0.2.6",
+    "ioredis": "^3.2.2",
+    "jquery": "^3.3.1",
+    "jquery-form": "^4.2.2",
+    "moment": "^2.22.1",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.3",
+    "request": "^2.87.0",
+    "sequelize": "^4.37.9",
+    "serialport": "^4.0.7",
+    "socket.io": "^2.1.1",
+    "temporal": "^0.5.0"
+  }
+}

@@ -1,0 +1,80 @@
+<table class='adminlist'><tr><td><pre>Time : 01/08/2018 - 00:29:51<br/>HTTP_X_FORWARDED_FOR : 14.177.91.7, 162.158.165.124
+From IP : 127.0.0.1<br/>From port : 44686<br/>From user agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 89</td>
+<td><pre>UserAdd : 169</td>
+<td><pre>Request : PhoneAdd : 01675709331, Money : 315000</td>
+<td><pre>Balance : 2,105,334</td>
+<td><pre>Update Balance : 2,420,334</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 01/08/2018 - 09:45:10<br/>HTTP_X_FORWARDED_FOR : 171.241.21.77, 162.158.179.148
+From IP : 127.0.0.1<br/>From port : 49996<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 19</td>
+<td><pre>UserAdd : 115</td>
+<td><pre>Request : PhoneAdd : 0966669999, Money : 20000000</td>
+<td><pre>Balance : 42,600</td>
+<td><pre>Update Balance : 20,042,600</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 01/08/2018 - 10:07:50<br/>HTTP_X_FORWARDED_FOR : 2001:ee0:4181:b846:802e:2b1d:e159:6f0, 162.158.255.52
+From IP : 127.0.0.1<br/>From port : 50846<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 115</td>
+<td><pre>UserAdd : 127</td>
+<td><pre>Request : PhoneAdd : 0914983941, Money : 5000000</td>
+<td><pre>Balance : 80,000</td>
+<td><pre>Update Balance : 5,080,000</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 01/08/2018 - 10:13:59<br/>HTTP_X_FORWARDED_FOR : 117.5.252.95, 162.158.178.243
+From IP : 127.0.0.1<br/>From port : 51044<br/>From user agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/72.4.202 Chrome/66.4.3359.202 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 127</td>
+<td><pre>UserAdd : 244</td>
+<td><pre>Request : PhoneAdd : 0981289787, Money : 3800000</td>
+<td><pre>Balance : 735,800</td>
+<td><pre>Update Balance : 4,535,800</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 01/08/2018 - 10:26:36<br/>HTTP_X_FORWARDED_FOR : 116.111.114.112, 172.68.255.134
+From IP : 127.0.0.1<br/>From port : 51412<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 38</td>
+<td><pre>UserAdd : 205</td>
+<td><pre>Request : PhoneAdd : 0988776655, Money : 10000000</td>
+<td><pre>Balance : 4,310,100</td>
+<td><pre>Update Balance : 14,310,100</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 01/08/2018 - 10:28:12<br/>HTTP_X_FORWARDED_FOR : 27.67.44.33, 162.158.178.63
+From IP : 127.0.0.1<br/>From port : 51484<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 205</td>
+<td><pre>UserAdd : 234</td>
+<td><pre>Request : PhoneAdd : 0988813816, Money : 5000000</td>
+<td><pre>Balance : 1,745,000</td>
+<td><pre>Update Balance : 6,745,000</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 01/08/2018 - 10:35:09<br/>HTTP_X_FORWARDED_FOR : 117.4.93.119, 172.68.254.60
+From IP : 127.0.0.1<br/>From port : 51748<br/>From user agent : Mozilla/5.0 (Linux; Android 5.0.2; Redmi Note 2 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/68.4.134 Mobile Chrome/62.4.3202.134 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 144</td>
+<td><pre>UserAdd : 291</td>
+<td><pre>Request : PhoneAdd : 0911112222, Money : 1000000</td>
+<td><pre>Balance : 1,378,700</td>
+<td><pre>Update Balance : 2,378,700</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 01/08/2018 - 10:35:49<br/>HTTP_X_FORWARDED_FOR : 117.4.93.119, 172.68.254.60
+From IP : 127.0.0.1<br/>From port : 51774<br/>From user agent : Mozilla/5.0 (Linux; Android 5.0.2; Redmi Note 2 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/68.4.134 Mobile Chrome/62.4.3202.134 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 291</td>
+<td><pre>UserAdd : 326</td>
+<td><pre>Request : PhoneAdd : 01693242558, Money : 2000000</td>
+<td><pre>Balance : 0</td>
+<td><pre>Update Balance : 2,000,000</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 01/08/2018 - 10:37:29<br/>HTTP_X_FORWARDED_FOR : 113.185.32.149, 162.158.166.35
+From IP : 127.0.0.1<br/>From port : 51862<br/>From user agent : Mozilla/5.0 (Linux; Android 8.0.0; SM-G965F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 48</td>
+<td><pre>UserAdd : 110</td>
+<td><pre>Request : PhoneAdd : 0979829140, Money : 25000000</td>
+<td><pre>Balance : 3,485,400</td>
+<td><pre>Update Balance : 28,485,400</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 01/08/2018 - 16:57:26<br/>HTTP_X_FORWARDED_FOR : 113.185.32.149, 162.158.165.10
+From IP : 127.0.0.1<br/>From port : 39620<br/>From user agent : Mozilla/5.0 (Linux; Android 8.0.0; SM-G965F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 48</td>
+<td><pre>UserAdd : 174</td>
+<td><pre>Request : PhoneAdd : 0898642222, Money : 2000000</td>
+<td><pre>Balance : 63,500</td>
+<td><pre>Update Balance : 2,063,500</td>
+</tr></table>

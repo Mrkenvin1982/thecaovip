@@ -1,0 +1,28 @@
+<?php 
+include '../../config.php'; 
+
+foreach($_POST as $key => $value) {
+    $$key = trim($value);
+    if(!Library_Validation::antiSql($value)) {
+        echo json_encode(array('code' => 1, 'msg' => 'Dữ liệu có vấn đề!'));
+        exit();
+    }
+}
+if(!is_object($adminuser)) {
+    echo json_encode(array('code' => 1, 'msg' => 'Bạn chưa đăng nhập!'));
+    exit();
+}
+$models_user = new Models_Users();
+
+$condi = "'%{$search}%'";
+$checkref ='';
+if ($adminuser->group_id!=1) {
+	$checkref=" and (refer ={$adminuser->getId()} or id ={$adminuser->getId()})";
+}
+$users = $models_user->customQuery("Select * from Users where phone like $condi $checkref");
+$res =array();
+foreach ($users as $user) {
+	$res[] = array("name"=>$user->name,"label"=>$user->name."(".$user->phone.")","phone"=>$user->phone);
+}
+echo json_encode($res);
+?>

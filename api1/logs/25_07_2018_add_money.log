@@ -1,0 +1,104 @@
+<table class='adminlist'><tr><td><pre>Time : 25/07/2018 - 10:04:05<br/>HTTP_X_FORWARDED_FOR : 113.185.11.241, 172.68.144.85
+From IP : 127.0.0.1<br/>From host : <br/>From port : 33222<br/>From user agent : Mozilla/5.0 (Linux; Android 8.0.0; SM-G965F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 48</td>
+<td><pre>UserAdd : 75</td>
+<td><pre>Request : PhoneAdd : 01666166166, Money : 6000000</td>
+<td><pre>Balance : 122,500</td>
+<td><pre>Update Balance : 6,122,500</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 25/07/2018 - 10:54:00<br/>HTTP_X_FORWARDED_FOR : 2001:ee0:40e1:3105:9401:f73d:b4b4:68cd, 172.68.189.127
+From IP : 127.0.0.1<br/>From host : <br/>From port : 35070<br/>From user agent : Mozilla/5.0 (Linux; Android 5.0.2; Redmi Note 2 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/68.4.134 Mobile Chrome/62.4.3202.134 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 326</td>
+<td><pre>UserAdd : 291</td>
+<td><pre>Request : PhoneAdd : 0911112222, Money : 20000000</td>
+<td><pre>Balance : 11,733,200</td>
+<td><pre>Update Balance : 31,733,200</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 25/07/2018 - 11:14:21<br/>HTTP_X_FORWARDED_FOR : 113.185.11.241, 162.158.166.239
+From IP : 127.0.0.1<br/>From host : <br/>From port : 35688<br/>From user agent : Mozilla/5.0 (Linux; Android 8.0.0; SM-G965F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 48</td>
+<td><pre>UserAdd : 379</td>
+<td><pre>Request : PhoneAdd : 09661112255, Money : 10000000</td>
+<td><pre>Balance : 0</td>
+<td><pre>Update Balance : 10,000,000</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 25/07/2018 - 11:19:16<br/>HTTP_X_FORWARDED_FOR : 117.5.217.209, 172.68.255.98
+From IP : 127.0.0.1<br/>From host : <br/>From port : 35864<br/>From user agent : Mozilla/5.0 (Linux; Android 7.1.1; CPH1729 Build/N6F26Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 364</td>
+<td><pre>UserAdd : 291</td>
+<td><pre>Request : PhoneAdd : 0911112222, Money : 4000000</td>
+<td><pre>Balance : 31,733,200</td>
+<td><pre>Update Balance : 35,733,200</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 25/07/2018 - 11:19:30<br/>HTTP_X_FORWARDED_FOR : 14.248.160.204, 162.158.166.239
+From IP : 127.0.0.1<br/>From host : <br/>From port : 35866<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1.1; SM-J200GU Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 362</td>
+<td><pre>UserAdd : 291</td>
+<td><pre>Request : PhoneAdd : 0911112222, Money : 5000000</td>
+<td><pre>Balance : 35,733,200</td>
+<td><pre>Update Balance : 40,733,200</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 25/07/2018 - 12:00:49<br/>HTTP_X_FORWARDED_FOR : 27.72.16.95, 172.68.255.80
+From IP : 127.0.0.1<br/>From host : <br/>From port : 36634<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-G935F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 38</td>
+<td><pre>UserAdd : 279</td>
+<td><pre>Request : PhoneAdd : 0988333666, Money : 3000000</td>
+<td><pre>Balance : 13,700</td>
+<td><pre>Update Balance : 3,013,700</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 25/07/2018 - 16:37:01<br/>HTTP_X_FORWARDED_FOR : 27.67.133.197, 172.68.255.98
+From IP : 127.0.0.1<br/>From host : <br/>From port : 49930<br/>From user agent : Mozilla/5.0 (Linux; Android 5.1; ASUS_Z00VD Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 296</td>
+<td><pre>UserAdd : 291</td>
+<td><pre>Request : PhoneAdd : 0911112222, Money : 13000000</td>
+<td><pre>Balance : 40,781,200</td>
+<td><pre>Update Balance : 53,781,200</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 25/07/2018 - 16:52:27<br/>HTTP_X_FORWARDED_FOR : 113.185.15.115, 162.158.167.12
+From IP : 127.0.0.1<br/>From host : <br/>From port : 50354<br/>From user agent : Mozilla/5.0 (Linux; Android 8.0.0; SM-G965F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 48</td>
+<td><pre>UserAdd : 94</td>
+<td><pre>Request : PhoneAdd : 0979343293, Money : 20000000</td>
+<td><pre>Balance : 120,000</td>
+<td><pre>Update Balance : 20,120,000</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 25/07/2018 - 16:59:28<br/>HTTP_X_FORWARDED_FOR : 27.72.16.95, 162.158.178.63
+From IP : 127.0.0.1<br/>From host : <br/>From port : 50632<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-G935F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.70 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 38</td>
+<td><pre>UserAdd : 205</td>
+<td><pre>Request : PhoneAdd : 0988776655, Money : 10000000</td>
+<td><pre>Balance : 145,600</td>
+<td><pre>Update Balance : 10,145,600</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 25/07/2018 - 18:34:47<br/>HTTP_X_FORWARDED_FOR : 117.1.160.255, 172.68.255.98
+From IP : 127.0.0.1<br/>From host : <br/>From port : 53502<br/>From user agent : Mozilla/5.0 (Linux; Android 5.0.2; Redmi Note 2 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/68.4.134 Mobile Chrome/62.4.3202.134 Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 291</td>
+<td><pre>UserAdd : 364</td>
+<td><pre>Request : PhoneAdd : 0978681926, Money : 2000000</td>
+<td><pre>Balance : 249,000</td>
+<td><pre>Update Balance : 2,249,000</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 25/07/2018 - 19:55:21<br/>HTTP_X_FORWARDED_FOR : 27.67.140.137, 172.68.255.92
+From IP : 127.0.0.1<br/>From host : <br/>From port : 55036<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 305</td>
+<td><pre>UserAdd : 307</td>
+<td><pre>Request : PhoneAdd : 0981881080, Money : 5000000</td>
+<td><pre>Balance : 85,000</td>
+<td><pre>Update Balance : 5,085,000</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 25/07/2018 - 21:19:56<br/>HTTP_X_FORWARDED_FOR : 171.241.4.243, 162.158.179.112
+From IP : 127.0.0.1<br/>From host : <br/>From port : 57038<br/>From user agent : Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 205</td>
+<td><pre>UserAdd : 234</td>
+<td><pre>Request : PhoneAdd : 0988813816, Money : 5000000</td>
+<td><pre>Balance : 357,000</td>
+<td><pre>Update Balance : 5,357,000</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 25/07/2018 - 22:26:48<br/>HTTP_X_FORWARDED_FOR : 27.72.16.95, 172.68.253.125
+From IP : 127.0.0.1<br/>From host : <br/>From port : 59216<br/>From user agent : Mozilla/5.0 (Linux; Android 7.0; SM-G935F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.70 Mobile Safari/537.36<br/>Script file name : /home/levanluyen/www/api1/ajax/addmoney.php<br/></td>
+<td><pre>Admin : 38</td>
+<td><pre>UserAdd : 229</td>
+<td><pre>Request : PhoneAdd : 0988111222, Money : 800000</td>
+<td><pre>Balance : 17,100</td>
+<td><pre>Update Balance : 817,100</td>
+</tr></table>
