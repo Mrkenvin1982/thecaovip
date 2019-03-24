@@ -5,5 +5,5 @@ Options All -Indexes
 #order deny,allow
 #deny from all
 
-#nha khiem
-#allow from 14.162.66.66 
+#enzo
+#allow from 42.119.44.66
